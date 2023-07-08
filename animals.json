@@ -1,0 +1,1326 @@
+{
+  "android_play_store_link":"https://play.google.com/store/apps/details?id=com.astromobile.stickers.animados",
+  "ios_app_store_link": "",
+  "sticker_packs": [
+    {
+      "identifier": "violetmonkey1",
+      "name": "Violet Monkey 1",
+      "animated_sticker_pack": true,
+      "stickers": "13"
+    },
+    {
+      "identifier": "cottonbunny1",
+      "name": "Cotton Bunny 1",
+      "animated_sticker_pack": true,
+      "stickers": "13"
+    },
+    {
+      "identifier": "cottonbunny2",
+      "name": "Cotton Bunny 2",
+      "animated_sticker_pack": true,
+      "stickers": "11"
+    },
+    {
+      "identifier": "sweetcreamemoji1",
+      "name": "Sweet Cream Emoji",
+      "animated_sticker_pack": true,
+      "stickers": "15"
+    },
+    {
+      "identifier": "chaoscat",
+      "name": "Chaos Cat",
+      "animated_sticker_pack": true,
+      "stickers": "15"
+    },
+    {
+      "identifier": "chickemoji1",
+      "name": "Chick Emoji (1)",
+      "animated_sticker_pack": true,
+      "stickers": "15"
+    },
+    {
+      "identifier": "chickemoji2",
+      "name": "Chick Emoji (2)",
+      "animated_sticker_pack": true,
+      "stickers": "15"
+    },
+    {
+      "identifier": "chickemoji3",
+      "name": "Chick Emoji (3)",
+      "animated_sticker_pack": true,
+      "stickers": "15"
+    },
+    {
+      "identifier": "siamese1",
+      "name": "Siamese Cat 1",
+      "animated_sticker_pack": true,
+      "stickers": "15"
+    },
+    {
+      "identifier": "siamese2",
+      "name": "Siamese Cat 2",
+      "animated_sticker_pack": true,
+      "stickers": "15"
+    },
+    {
+      "identifier": "siamese3",
+      "name": "Siamese Cat 3",
+      "animated_sticker_pack": true,
+      "stickers": "15"
+    },
+    {
+      "identifier": "topulya1",
+      "name": "Topulya 1",
+      "animated_sticker_pack": true,
+      "stickers": "15"
+    },
+    {
+      "identifier": "topulya2",
+      "name": "Topulya 2",
+      "animated_sticker_pack": true,
+      "stickers": "15"
+    },
+    {
+      "identifier": "topulya3",
+      "name": "Topulya 3",
+      "animated_sticker_pack": true,
+      "stickers": "15"
+    },
+    {
+      "identifier": "meowemoji1",
+      "name": "Meowemoji (1)",
+      "animated_sticker_pack": true,
+      "stickers": "15"
+    },
+    {
+      "identifier": "meowemoji2",
+      "name": "Meowemoji (2)",
+      "animated_sticker_pack": true,
+      "stickers": "15"
+    },
+    {
+      "identifier": "meowemoji3",
+      "name": "Meowemoji (3)",
+      "animated_sticker_pack": true,
+      "stickers": "15"
+    },
+    {
+      "identifier": "bunnyemoji1",
+      "name": "Bunny Emoji (1)",
+      "animated_sticker_pack": true,
+      "stickers": "15"
+    },
+    {
+      "identifier": "bunnyemoji2",
+      "name": "Bunny Emoji (2)",
+      "animated_sticker_pack": true,
+      "stickers": "15"
+    },
+    {
+      "identifier": "bunnyemoji3",
+      "name": "Bunny Emoji (3)",
+      "animated_sticker_pack": true,
+      "stickers": "15"
+    },
+    {
+      "identifier": "effectstickers1",
+      "name": "Effects Stickers (1)",
+      "animated_sticker_pack": true,
+      "stickers": "15"
+    },
+    {
+      "identifier": "effectstickers2",
+      "name": "Effects Stickers (2)",
+      "animated_sticker_pack": true,
+      "stickers": "15"
+    },
+    {
+      "identifier": "effectstickers3",
+      "name": "Effects Stickers (3)",
+      "animated_sticker_pack": true,
+      "stickers": "15"
+    },
+    {
+      "identifier": "toracat1",
+      "name": "Tora Cat (1)",
+      "animated_sticker_pack": true,
+      "stickers": "16"
+    },
+    {
+      "identifier": "toracat2",
+      "name": "Tora Cat (2)",
+      "animated_sticker_pack": true,
+      "stickers": "16"
+    },
+    {
+      "identifier": "snowleopard1",
+      "name": "Snow Leopard (1)",
+      "animated_sticker_pack": true,
+      "stickers": "12"
+    },
+    {
+      "identifier": "snowleopard2",
+      "name": "Snow Leopard (2)",
+      "animated_sticker_pack": true,
+      "stickers": "12"
+    },
+    {
+      "identifier": "chihu1",
+      "name": "Chihu 1",
+      "animated_sticker_pack": true,
+      "stickers": "16"
+    },
+    {
+      "identifier": "chihu2",
+      "name": "Chihu 2",
+      "animated_sticker_pack": true,
+      "stickers": "16"
+    },
+    {
+      "identifier": "chihu3",
+      "name": "Chihu 3",
+      "animated_sticker_pack": true,
+      "stickers": "16"
+    },
+    {
+      "identifier": "kipfox1",
+      "name": "Kip Fox 1",
+      "animated_sticker_pack": true,
+      "stickers": "15"
+    },
+    {
+      "identifier": "kipfox2",
+      "name": "Kip Fox 2",
+      "animated_sticker_pack": true,
+      "stickers": "15"
+    },
+    {
+      "identifier": "pandaanim1",
+      "name": "Panda",
+      "animated_sticker_pack": true,
+      "stickers": "18"
+    },
+    {
+      "identifier": "zybadin1",
+      "name": "Zyba Dinosaur",
+      "animated_sticker_pack": true,
+      "stickers": "15"
+    },
+    {
+      "identifier": "beefyeagle",
+      "name": "Beefy Eagle",
+      "animated_sticker_pack": true,
+      "stickers": "15"
+    },
+    {
+      "identifier": "dolphinjumpy",
+      "name": "Dolphin Jumpy",
+      "animated_sticker_pack": true,
+      "stickers": "20"
+    },
+    {
+      "identifier": "turtle1",
+      "name": "Turtle 1",
+      "animated_sticker_pack": true,
+      "stickers": "15"
+    },
+    {
+      "identifier": "turtle2",
+      "name": "Turtle 2",
+      "animated_sticker_pack": true,
+      "stickers": "15"
+    },
+    {
+      "identifier": "frenchie1",
+      "name": "Frenchie 1",
+      "animated_sticker_pack": true,
+      "stickers": "15"
+    },
+    {
+      "identifier": "frenchie2",
+      "name": "Frenchie 2",
+      "animated_sticker_pack": true,
+      "stickers": "15"
+    },
+    {
+      "identifier": "debrazebra1",
+      "name": "Debra Zebra",
+      "animated_sticker_pack": true,
+      "stickers": "20"
+    },
+    {
+      "identifier": "olivercat1",
+      "name": "Oliver Cat 1",
+      "animated_sticker_pack": true,
+      "stickers": "13"
+    },
+    {
+      "identifier": "olivercat2",
+      "name": "Oliver Cat 2",
+      "animated_sticker_pack": true,
+      "stickers": "13"
+    },
+    {
+      "identifier": "olivercat3",
+      "name": "Oliver Cat 3",
+      "animated_sticker_pack": true,
+      "stickers": "13"
+    },
+    {
+      "identifier": "mottycat1",
+      "name": "Motty Cat 1",
+      "animated_sticker_pack": true,
+      "stickers": "15"
+    },
+    {
+      "identifier": "mottycat2",
+      "name": "Motty Cat 2",
+      "animated_sticker_pack": true,
+      "stickers": "15"
+    },
+    {
+      "identifier": "monkeyblue1",
+      "name": "Monkey Blue (1)",
+      "animated_sticker_pack": true,
+      "stickers": "15"
+    },
+    {
+      "identifier": "monkeyblue2",
+      "name": "Monkey Blue (2)",
+      "animated_sticker_pack": true,
+      "stickers": "15"
+    },
+    {
+      "identifier": "ytkaok1",
+      "name": "Ytka Ok (1)",
+      "animated_sticker_pack": true,
+      "stickers": "10"
+    },
+    {
+      "identifier": "ytkaok2",
+      "name": "Ytka Ok (2)",
+      "animated_sticker_pack": true,
+      "stickers": "10"
+    },
+    {
+      "identifier": "kwonkwonkyu",
+      "name": "KwonKwonkYu",
+      "animated_sticker_pack": true,
+      "stickers": "9"
+    },
+    {
+      "identifier": "bearemoji1",
+      "name": "Bear Emoji 1",
+      "animated_sticker_pack": true,
+      "stickers": "13"
+    },
+    {
+      "identifier": "bearemoji2",
+      "name": "Bear Emoji 2",
+      "animated_sticker_pack": true,
+      "stickers": "12"
+    },
+    {
+      "identifier": "pigsmilies1",
+      "name": "Pig Smilies 1",
+      "animated_sticker_pack": true,
+      "stickers": "10"
+    },
+    {
+      "identifier": "pigsmilies2",
+      "name": "Pig Smilies 2",
+      "animated_sticker_pack": true,
+      "stickers": "10"
+    },
+    {
+      "identifier": "pigsmilies3",
+      "name": "Pig Smilies 3",
+      "animated_sticker_pack": true,
+      "stickers": "10"
+    },
+    {
+      "identifier": "pigsmilies4",
+      "name": "Pig Smilies 4",
+      "animated_sticker_pack": true,
+      "stickers": "10"
+    },
+    {
+      "identifier": "cowanimated1",
+      "name": "Cow Animated 1",
+      "animated_sticker_pack": true,
+      "stickers": "12"
+    },
+    {
+      "identifier": "cowanimated2",
+      "name": "Cow Animated 2",
+      "animated_sticker_pack": true,
+      "stickers": "12"
+    },
+    {
+      "identifier": "spottyanimated1",
+      "name": "Spotty Animated 1",
+      "animated_sticker_pack": true,
+      "stickers": "15"
+    },
+    {
+      "identifier": "spottyanimated2",
+      "name": "Spotty Animated 2",
+      "animated_sticker_pack": true,
+      "stickers": "19"
+    },
+    {
+      "identifier": "spottyanimated3",
+      "name": "Spotty Animated 3",
+      "animated_sticker_pack": true,
+      "stickers": "15"
+    },
+    {
+      "identifier": "pinkcow1",
+      "name": "Pink Cow",
+      "animated_sticker_pack": true,
+      "stickers": "18"
+    },
+    {
+      "identifier": "miabunny1",
+      "name": "Mia Bunny 1",
+      "animated_sticker_pack": true,
+      "stickers": "12"
+    },
+    {
+      "identifier": "miabunny2",
+      "name": "Mia Bunny 2",
+      "animated_sticker_pack": true,
+      "stickers": "13"
+    },
+    {
+      "identifier": "funkygoose1",
+      "name": "Funky Goose 1",
+      "animated_sticker_pack": true,
+      "stickers": "12"
+    },
+    {
+      "identifier": "funkygoose2",
+      "name": "Funky Goose 2",
+      "animated_sticker_pack": true,
+      "stickers": "12"
+    },
+    {
+      "identifier": "funkygoose3",
+      "name": "Funky Goose 3",
+      "animated_sticker_pack": true,
+      "stickers": "12"
+    },
+    {
+      "identifier": "heavenslamby1",
+      "name": "Heavens Lamby 1",
+      "animated_sticker_pack": true,
+      "stickers": "10"
+    },
+    {
+      "identifier": "heavenslamby2",
+      "name": "Heavens Lamby 2",
+      "animated_sticker_pack": true,
+      "stickers": "10"
+    },
+    {
+      "identifier": "uni1",
+      "name": "Uni 1",
+      "animated_sticker_pack": true,
+      "stickers": "12"
+    },
+    {
+      "identifier": "uni2",
+      "name": "Uni 2",
+      "animated_sticker_pack": true,
+      "stickers": "12"
+    },
+    {
+      "identifier": "alerabbit1",
+      "name": "Ale Rabbit 1",
+      "animated_sticker_pack": true,
+      "stickers": "10"
+    },
+    {
+      "identifier": "alerabbit2",
+      "name": "Ale Rabbit 2",
+      "animated_sticker_pack": true,
+      "stickers": "10"
+    },
+    {
+      "identifier": "naughtymonkey1",
+      "name": "Naughty Monkey 1",
+      "animated_sticker_pack": true,
+      "stickers": "10"
+    },
+    {
+      "identifier": "naughtymonkey2",
+      "name": "Naughty Monkey 2",
+      "animated_sticker_pack": true,
+      "stickers": "10"
+    },
+    {
+      "identifier": "shaitanchick1",
+      "name": "Shaitan Chick 1",
+      "animated_sticker_pack": true,
+      "stickers": "15"
+    },
+    {
+      "identifier": "shaitanchick2",
+      "name": "Shaitan Chick 2",
+      "animated_sticker_pack": true,
+      "stickers": "15"
+    },
+    {
+      "identifier": "ruflexxx",
+      "name": "Ruflexxx",
+      "animated_sticker_pack": true,
+      "stickers": "10"
+    },
+    {
+      "identifier": "kumi1",
+      "name": "Kumi 1",
+      "animated_sticker_pack": true,
+      "stickers": "12"
+    },
+    {
+      "identifier": "kumi2",
+      "name": "Kumi 2",
+      "animated_sticker_pack": true,
+      "stickers": "12"
+    },
+    {
+      "identifier": "kumi3",
+      "name": "Kumi 3",
+      "animated_sticker_pack": true,
+      "stickers": "12"
+    },
+    {
+      "identifier": "alpacadabraz1",
+      "name": "Alpacadabraz",
+      "animated_sticker_pack": true,
+      "stickers": "15"
+    },
+    {
+      "identifier": "whale1",
+      "name": "Whale 1",
+      "animated_sticker_pack": true,
+      "stickers": "15"
+    },
+    {
+      "identifier": "whale2",
+      "name": "Whale 2",
+      "animated_sticker_pack": true,
+      "stickers": "15"
+    },
+    {
+      "identifier": "persikcat1",
+      "name": "Persik Cat 1",
+      "animated_sticker_pack": true,
+      "stickers": "12"
+    },
+    {
+      "identifier": "persikcat2",
+      "name": "Persik Cat 2",
+      "animated_sticker_pack": true,
+      "stickers": "12"
+    },
+    {
+      "identifier": "persikcat3",
+      "name": "Persik Cat 3",
+      "animated_sticker_pack": true,
+      "stickers": "12"
+    },
+    {
+      "identifier": "persikcat4",
+      "name": "Persik Cat 4",
+      "animated_sticker_pack": true,
+      "stickers": "12"
+    },
+    {
+      "identifier": "peggysu1",
+      "name": "Peggysu 1",
+      "animated_sticker_pack": true,
+      "stickers": "12"
+    },
+    {
+      "identifier": "peggysu2",
+      "name": "Peggysu 2",
+      "animated_sticker_pack": true,
+      "stickers": "12"
+    },
+    {
+      "identifier": "peggysu3",
+      "name": "Peggysu 3",
+      "animated_sticker_pack": true,
+      "stickers": "12"
+    },
+    {
+      "identifier": "peggysu4",
+      "name": "Peggysu 4",
+      "animated_sticker_pack": true,
+      "stickers": "12"
+    },
+    {
+      "identifier": "peggysu5",
+      "name": "Peggysu 5",
+      "animated_sticker_pack": true,
+      "stickers": "12"
+    },
+    {
+      "identifier": "pigeongulya1",
+      "name": "Pigeon Gulya 1",
+      "animated_sticker_pack": true,
+      "stickers": "15"
+    },
+    {
+      "identifier": "pigeongulya2",
+      "name": "Pigeon Gulya 2",
+      "animated_sticker_pack": true,
+      "stickers": "15"
+    },
+    {
+      "identifier": "rosasick1",
+      "name": "Rosa S1ck 1",
+      "animated_sticker_pack": true,
+      "stickers": "15"
+    },
+    {
+      "identifier": "rosasick2",
+      "name": "Rosa S1ck 2",
+      "animated_sticker_pack": true,
+      "stickers": "15"
+    },
+    {
+      "identifier": "pinky1",
+      "name": "Pinky 1",
+      "animated_sticker_pack": true,
+      "stickers": "12"
+    },
+    {
+      "identifier": "pinky2",
+      "name": "Pinky 2",
+      "animated_sticker_pack": true,
+      "stickers": "12"
+    },
+    {
+      "identifier": "pinky3",
+      "name": "Pinky 3",
+      "animated_sticker_pack": true,
+      "stickers": "12"
+    },
+    {
+      "identifier": "gojill1",
+      "name": "Gojill 1",
+      "animated_sticker_pack": true,
+      "stickers": "20"
+    },
+    {
+      "identifier": "gojill2",
+      "name": "Gojill 2",
+      "animated_sticker_pack": true,
+      "stickers": "20"
+    },
+    {
+      "identifier": "dogsa3",
+      "name": "Dogs Animated (3)",
+      "animated_sticker_pack": true,
+      "stickers": "18"
+    },
+    {
+      "identifier": "dogsa4",
+      "name": "Dogs Animated (4)",
+      "animated_sticker_pack": true,
+      "stickers": "9"
+    },
+    {
+      "identifier": "catsa10",
+      "name": "Animated Cats (10)",
+      "animated_sticker_pack": true,
+      "stickers": "13"
+    },
+    {
+      "identifier": "catsa11",
+      "name": "Animated Cats (11)",
+      "animated_sticker_pack": true,
+      "stickers": "13"
+    },
+    {
+      "identifier": "happyhippos1",
+      "name": "Happy Hippos",
+      "animated_sticker_pack": true,
+      "stickers": "20"
+    },
+    {
+      "identifier": "witchcat1",
+      "name": "Witch Cat 1",
+      "animated_sticker_pack": true,
+      "stickers": "12"
+    },
+    {
+      "identifier": "witchcat2",
+      "name": "Witch Cat 2",
+      "animated_sticker_pack": true,
+      "stickers": "12"
+    },
+    {
+      "identifier": "gorilla3d5",
+      "name": "Gorilla 3d 5",
+      "animated_sticker_pack": true,
+      "stickers": "12"
+    },
+    {
+      "identifier": "gorilla3d6",
+      "name": "Gorilla 3d 6",
+      "animated_sticker_pack": true,
+      "stickers": "12"
+    },
+    {
+      "identifier": "tsumtsum1",
+      "name": "Tsum Tsum",
+      "animated_sticker_pack": true,
+      "stickers": "16"
+    },
+    {
+      "identifier": "yello1",
+      "name": "Yello (1)",
+      "animated_sticker_pack": true,
+      "stickers": "12"
+    },
+    {
+      "identifier": "yello2",
+      "name": "Yello (2)",
+      "animated_sticker_pack": true,
+      "stickers": "12"
+    },
+    {
+      "identifier": "grinchdog",
+      "name": "Grinch Dog",
+      "animated_sticker_pack": true,
+      "stickers": "7"
+    },
+    {
+      "identifier": "snowoo1",
+      "name": "Snowoo 1",
+      "animated_sticker_pack": true,
+      "stickers": "12"
+    },
+    {
+      "identifier": "snowoo2",
+      "name": "Snowoo 2",
+      "animated_sticker_pack": true,
+      "stickers": "12"
+    },
+    {
+      "identifier": "gorilla3d1",
+      "name": "Gorilla 3d 1",
+      "animated_sticker_pack": true,
+      "stickers": "12"
+    },
+    {
+      "identifier": "gorilla3d2",
+      "name": "Gorilla 3d 2",
+      "animated_sticker_pack": true,
+      "stickers": "12"
+    },
+    {
+      "identifier": "gorilla3d3",
+      "name": "Gorilla 3d 3",
+      "animated_sticker_pack": true,
+      "stickers": "12"
+    },
+    {
+      "identifier": "gorilla3d4",
+      "name": "Gorilla 3d 4",
+      "animated_sticker_pack": true,
+      "stickers": "12"
+    },
+    {
+      "identifier": "thesecretlifeofpet1",
+      "name": "The Secret Life of Pet 1",
+      "animated_sticker_pack": true,
+      "stickers": "12"
+    },
+    {
+      "identifier": "thesecretlifeofpet2",
+      "name": "The Secret Life of Pet 2",
+      "animated_sticker_pack": true,
+      "stickers": "12"
+    },
+    {
+      "identifier": "doca1",
+      "name": "Doca 1",
+      "animated_sticker_pack": true,
+      "stickers": "10"
+    },
+    {
+      "identifier": "doca2",
+      "name": "Doca 2",
+      "animated_sticker_pack": true,
+      "stickers": "11"
+    },
+    {
+      "identifier": "wintercat1",
+      "name": "Winter Cat 1",
+      "animated_sticker_pack": true,
+      "stickers": "12"
+    },
+    {
+      "identifier": "wintercat2",
+      "name": "Winter Cat 2",
+      "animated_sticker_pack": true,
+      "stickers": "12"
+    },
+    {
+      "identifier": "dogs6",
+      "name": "Dogs 6",
+      "animated_sticker_pack": true,
+      "stickers": "17"
+    },
+    {
+      "identifier": "cats4",
+      "name": "Cats 4",
+      "animated_sticker_pack": true,
+      "stickers": "16"
+    },
+    {
+      "identifier": "catsfunny",
+      "name": "Cats Funny",
+      "animated_sticker_pack": true,
+      "stickers": "15"
+    },
+    {
+      "identifier": "dogsurprised",
+      "name": "Dog Surprised",
+      "animated_sticker_pack": true,
+      "stickers": "15"
+    },
+    {
+      "identifier": "catscrying",
+      "name": "Cats Crying",
+      "animated_sticker_pack": true,
+      "stickers": "15"
+    },
+    {
+      "identifier": "dogscrying",
+      "name": "Dogs Crying",
+      "animated_sticker_pack": true,
+      "stickers": "15"
+    },
+    {
+      "identifier": "monchi1",
+      "name": "Monchi (1)",
+      "animated_sticker_pack": true,
+      "stickers": "10"
+    },
+    {
+      "identifier": "monchi2",
+      "name": "Monchi (2)",
+      "animated_sticker_pack": true,
+      "stickers": "10"
+    },
+    {
+      "identifier": "dogs4",
+      "name": "Dogs (4)",
+      "animated_sticker_pack": true,
+      "stickers": "12"
+    },
+    {
+      "identifier": "dogs5",
+      "name": "Dogs (5)",
+      "animated_sticker_pack": true,
+      "stickers": "12"
+    },
+    {
+      "identifier": "actions1",
+      "name": "Actions (1)",
+      "animated_sticker_pack": true,
+      "stickers": "20"
+    },
+    {
+      "identifier": "filter1",
+      "name": "Filter (1)",
+      "animated_sticker_pack": true,
+      "stickers": "21"
+    },
+    {
+      "identifier": "frenchbulldog1",
+      "name": "French Bulldog (1)",
+      "animated_sticker_pack": true,
+      "stickers": "15"
+    },
+    {
+      "identifier": "frenchbulldog2",
+      "name": "French Bulldog (2)",
+      "animated_sticker_pack": true,
+      "stickers": "12"
+    },
+    {
+      "identifier": "puglife",
+      "name": "Pug Life",
+      "animated_sticker_pack": true,
+      "stickers": "14"
+    },
+    {
+      "identifier": "pinguin",
+      "name": "Pinguin",
+      "animated_sticker_pack": true,
+      "stickers": "9"
+    },
+    {
+      "identifier": "princemichael",
+      "name": "Prince Michael",
+      "animated_sticker_pack": true,
+      "stickers": "17"
+    },
+    {
+      "identifier": "pig3d1",
+      "name": "Pig 3d (1)",
+      "animated_sticker_pack": true,
+      "stickers": "12"
+    },
+    {
+      "identifier": "pig3d2",
+      "name": "Pig 3d (2)",
+      "animated_sticker_pack": true,
+      "stickers": "12"
+    },
+    {
+      "identifier": "monchi",
+      "name": "Monchi",
+      "animated_sticker_pack": true,
+      "stickers": "20"
+    },
+    {
+      "identifier": "hopperhippo1",
+      "name": "Hopper Hippo (1)",
+      "animated_sticker_pack": true,
+      "stickers": "12"
+    },
+    {
+      "identifier": "hopperhippo2",
+      "name": "Hopper Hippo (2)",
+      "animated_sticker_pack": true,
+      "stickers": "13"
+    },
+    {
+      "identifier": "anteater",
+      "name": "Ant Eater",
+      "animated_sticker_pack": true,
+      "stickers": "19"
+    },
+    {
+      "identifier": "rabbity",
+      "name": "Rabbity",
+      "animated_sticker_pack": true,
+      "stickers": "19"
+    },
+    {
+      "identifier": "chickenbro1",
+      "name": "Chicken Bro 1",
+      "animated_sticker_pack": true,
+      "stickers": "16"
+    },
+    {
+      "identifier": "chickenbro2",
+      "name": "Chicken Bro 2",
+      "animated_sticker_pack": true,
+      "stickers": "16"
+    },
+    {
+      "identifier": "lolabunny",
+      "name": "Lola Bunny",
+      "animated_sticker_pack": true,
+      "stickers": "19"
+    },
+    {
+      "identifier": "wolfalpha1",
+      "name": "Wolf Alpha 1",
+      "animated_sticker_pack": true,
+      "stickers": "13"
+    },
+    {
+      "identifier": "wolfalpha2",
+      "name": "Wolf Alpha 2",
+      "animated_sticker_pack": true,
+      "stickers": "12"
+    },
+    {
+      "identifier": "friendlypanda1",
+      "name": "Friendly Panda 1",
+      "animated_sticker_pack": true,
+      "stickers": "11"
+    },
+    {
+      "identifier": "friendlypanda2",
+      "name": "Friendly Panda 2",
+      "animated_sticker_pack": true,
+      "stickers": "10"
+    },
+    {
+      "identifier": "dachshund2",
+      "name": "Dachshund",
+      "animated_sticker_pack": true,
+      "stickers": "20"
+    },
+    {
+      "identifier": "snowball1",
+      "name": "Snowball 1",
+      "animated_sticker_pack": true,
+      "stickers": "15"
+    },
+    {
+      "identifier": "snowball2",
+      "name": "Snowball 2",
+      "animated_sticker_pack": true,
+      "stickers": "15"
+    },
+    {
+      "identifier": "cats3",
+      "name": "Cats 3",
+      "animated_sticker_pack": true,
+      "stickers": "15"
+    },
+    {
+      "identifier": "lovelycow",
+      "name": "Lovely Cow",
+      "animated_sticker_pack": true,
+      "stickers": "20"
+    },
+    {
+      "identifier": "mybunny",
+      "name": "My Bunny",
+      "animated_sticker_pack": true,
+      "stickers": "26"
+    },
+    {
+      "identifier": "whitecat",
+      "name": "White Cat",
+      "animated_sticker_pack": true,
+      "stickers": "10"
+    },
+    {
+      "identifier": "skagcat",
+      "name": "Skag Cat",
+      "animated_sticker_pack": true,
+      "stickers": "19"
+    },
+    {
+      "identifier": "crazydog",
+      "name": "Crazy Dog",
+      "animated_sticker_pack": true,
+      "stickers": "15"
+    },
+    {
+      "identifier": "meow2",
+      "name": "Meow",
+      "animated_sticker_pack": true,
+      "stickers": "16"
+    },
+    {
+      "identifier": "pinkcat",
+      "name": "Pink Cat",
+      "animated_sticker_pack": true,
+      "stickers": "15"
+    },
+    {
+      "identifier": "muffy",
+      "name": "Muffy",
+      "animated_sticker_pack": true,
+      "stickers": "7"
+    },
+    {
+      "identifier": "riffy",
+      "name": "Riffy",
+      "animated_sticker_pack": true,
+      "stickers": "12"
+    },
+    {
+      "identifier": "tiny",
+      "name": "Tiny",
+      "animated_sticker_pack": true,
+      "stickers": "7"
+    },
+    {
+      "identifier": "louttyaw1",
+      "name": "Loutty Aw (1)",
+      "animated_sticker_pack": true,
+      "stickers": "12"
+    },
+    {
+      "identifier": "louttyaw2",
+      "name": "Loutty Aw (2)",
+      "animated_sticker_pack": true,
+      "stickers": "13"
+    },
+    {
+      "identifier": "fillyblue1",
+      "name": "Filly Blue (1)",
+      "animated_sticker_pack": true,
+      "stickers": "10"
+    },
+    {
+      "identifier": "fillyblue2",
+      "name": "Filly Blue (2)",
+      "animated_sticker_pack": true,
+      "stickers": "10"
+    },
+    {
+      "identifier": "capybara1",
+      "name": "Capybara (1)",
+      "animated_sticker_pack": true,
+      "stickers": "12"
+    },
+    {
+      "identifier": "capybara2",
+      "name": "Capybara (2)",
+      "animated_sticker_pack": true,
+      "stickers": "13"
+    },
+    {
+      "identifier": "camaleon",
+      "name": "Camaleon",
+      "animated_sticker_pack": true,
+      "stickers": "15"
+    },
+    {
+      "identifier": "croco",
+      "name": "Croco",
+      "animated_sticker_pack": true,
+      "stickers": "15"
+    },
+    {
+      "identifier": "lemur",
+      "name": "Lemur",
+      "animated_sticker_pack": true,
+      "stickers": "20"
+    },
+    {
+      "identifier": "orangecat",
+      "name": "Orange Cat",
+      "animated_sticker_pack": true,
+      "stickers": "15"
+    },
+    {
+      "identifier": "panthercute",
+      "name": "Panther Cute",
+      "animated_sticker_pack": true,
+      "stickers": "6"
+    },
+    {
+      "identifier": "cowfunny1",
+      "name": "Cow Funny 1",
+      "animated_sticker_pack": true,
+      "stickers": "10"
+    },
+    {
+      "identifier": "cowfunny2",
+      "name": "Cow Funny 2",
+      "animated_sticker_pack": true,
+      "stickers": "10"
+    },
+    {
+      "identifier": "muffindog1",
+      "name": "Muffin Dog 1",
+      "animated_sticker_pack": true,
+      "stickers": "13"
+    },
+    {
+      "identifier": "muffindog2",
+      "name": "Muffin Dog 2",
+      "animated_sticker_pack": true,
+      "stickers": "12"
+    },
+    {
+      "identifier": "others1",
+      "name": "Others 1",
+      "animated_sticker_pack": true,
+      "stickers": "13"
+    },
+    {
+      "identifier": "thepig",
+      "name": "The Pig",
+      "animated_sticker_pack": true,
+      "stickers": "24"
+    },
+    {
+      "identifier": "dogs3",
+      "name": "Dogs 3",
+      "animated_sticker_pack": true,
+      "stickers": "24"
+    },
+    {
+      "identifier": "dogs2",
+      "name": "Dogs 2",
+      "animated_sticker_pack": true,
+      "stickers": "9"
+    },
+    {
+      "identifier": "tidytiecat",
+      "name": "Tidyt Tie Cat",
+      "animated_sticker_pack": true,
+      "stickers": "21"
+    },
+    {
+      "identifier": "sloth",
+      "name": "Sloth",
+      "animated_sticker_pack": true,
+      "stickers": "20"
+    },
+    {
+      "identifier": "fredthepug",
+      "name": "Fred the Pug",
+      "animated_sticker_pack": true,
+      "stickers": "25"
+    },
+    {
+      "identifier": "blackcat",
+      "name": "Black Cat",
+      "animated_sticker_pack": true,
+      "stickers": "15"
+    },
+    {
+      "identifier": "duck",
+      "name": "Duck",
+      "animated_sticker_pack": true,
+      "stickers": "16"
+    },
+    {
+      "identifier": "green",
+      "name": "Green Frog",
+      "animated_sticker_pack": true,
+      "stickers": "15"
+    },
+    {
+      "identifier": "siberian",
+      "name": "Siberian",
+      "animated_sticker_pack": true,
+      "stickers": "20"
+    },
+    {
+      "identifier": "raven",
+      "name": "Raven",
+      "animated_sticker_pack": true,
+      "stickers": "13"
+    },
+    {
+      "identifier": "blue",
+      "name": "Blue",
+      "animated_sticker_pack": true,
+      "stickers": "22"
+    },
+    {
+      "identifier": "realcats1",
+      "name": "Real Cats",
+      "animated_sticker_pack": true,
+      "stickers": "19"
+    },
+    {
+      "identifier": "brownandcony",
+      "name": "Brown and Cony",
+      "animated_sticker_pack": true,
+      "stickers": "30"
+    },
+    {
+      "identifier": "bearcute1",
+      "name": "Bear Cute 1",
+      "animated_sticker_pack": true,
+      "stickers": "30"
+    },
+    {
+      "identifier": "bearcute2",
+      "name": "Bear Cute 2",
+      "animated_sticker_pack": true,
+      "stickers": "19"
+    },
+    {
+      "identifier": "sheep",
+      "name": "Pack Sheep",
+      "animated_sticker_pack": true,
+      "stickers": "15"
+    },
+    {
+      "identifier": "owl",
+      "name": "Pack Owl",
+      "animated_sticker_pack": true,
+      "stickers": "20"
+    },
+    {
+      "identifier": "diggy2",
+      "name": "Diggy 2",
+      "animated_sticker_pack": true,
+      "stickers": "21"
+    },
+    {
+      "identifier": "psy1",
+      "name": "Psy 1",
+      "animated_sticker_pack": true,
+      "stickers": "24"
+    },
+    {
+      "identifier": "psy2",
+      "name": "Psy 2",
+      "animated_sticker_pack": true,
+      "stickers": "23"
+    },
+    {
+      "identifier": "blanco",
+      "name": "Blanco",
+      "animated_sticker_pack": true,
+      "stickers": "20"
+    },
+    {
+      "identifier": "mrcat",
+      "name": "Mr Cat",
+      "animated_sticker_pack": true,
+      "stickers": "17"
+    },
+    {
+      "identifier": "diggy1",
+      "name": "Diggy 1",
+      "animated_sticker_pack": true,
+      "stickers": "21"
+    },
+    {
+      "identifier": "capoo",
+      "name": "Capoo",
+      "animated_sticker_pack": true,
+      "stickers": "30"
+    },
+    {
+      "identifier": "fluffys",
+      "name": "Fluffys",
+      "animated_sticker_pack": true,
+      "stickers": "24"
+    },
+    {
+      "identifier": "bicho1",
+      "name": "Bicho 1",
+      "animated_sticker_pack": true,
+      "stickers": "16"
+    },
+    {
+      "identifier": "bicho2",
+      "name": "Bicho 2",
+      "animated_sticker_pack": true,
+      "stickers": "14"
+    },
+    {
+      "identifier": "pusheen1",
+      "name": "Pusheen 1",
+      "animated_sticker_pack": true,
+      "stickers": "20"
+    },
+    {
+      "identifier": "ardilla",
+      "name": "Ardilla",
+      "animated_sticker_pack": true,
+      "stickers": "24"
+    },
+    {
+      "identifier": "pusheen2",
+      "name": "Pusheen 2",
+      "animated_sticker_pack": true,
+      "stickers": "20"
+    }
+  ]
+}

@@ -1,0 +1,294 @@
+{
+  "android_play_store_link":"https://play.google.com/store/apps/details?id=com.astromobile.stickers.animados",
+  "ios_app_store_link": "",
+  "sticker_packs": [
+    {
+      "identifier": "emojiscutekawaii1",
+      "name": "Emojis Cute Kawaii 1",
+      "animated_sticker_pack": true,
+      "stickers": "13"
+    },
+    {
+      "identifier": "emojiscutekawaii2",
+      "name": "Emojis Cute Kawaii 2",
+      "animated_sticker_pack": true,
+      "stickers": "13"
+    },
+    {
+      "identifier": "emojiemoticon1",
+      "name": "Emoticon (1)",
+      "animated_sticker_pack": true,
+      "stickers": "16"
+    },
+    {
+      "identifier": "emojiemoticon2",
+      "name": "Emoticon (2)",
+      "animated_sticker_pack": true,
+      "stickers": "16"
+    },
+    {
+      "identifier": "emojiemoticon3",
+      "name": "Emoticon (3)",
+      "animated_sticker_pack": true,
+      "stickers": "16"
+    },
+    {
+      "identifier": "kawaiiemoji1",
+      "name": "Kawaii Emoji 1",
+      "animated_sticker_pack": true,
+      "stickers": "17"
+    },
+    {
+      "identifier": "kawaiiemoji2",
+      "name": "Kawaii Emoji 2",
+      "animated_sticker_pack": true,
+      "stickers": "17"
+    },
+    {
+      "identifier": "kawaiiemoji3",
+      "name": "Kawaii Emoji 3",
+      "animated_sticker_pack": true,
+      "stickers": "17"
+    },
+    {
+      "identifier": "skycouple1",
+      "name": "Sky Couple 1",
+      "animated_sticker_pack": true,
+      "stickers": "14"
+    },
+    {
+      "identifier": "skycouple2",
+      "name": "Sky Couple 2",
+      "animated_sticker_pack": true,
+      "stickers": "14"
+    },
+    {
+      "identifier": "emojis3d11",
+      "name": "Emojis 3d 11",
+      "animated_sticker_pack": true,
+      "stickers": "22"
+    },
+    {
+      "identifier": "emojis3d12",
+      "name": "Emojis 3d 12",
+      "animated_sticker_pack": true,
+      "stickers": "22"
+    },
+    {
+      "identifier": "hands4friends1",
+      "name": "Hands 4 Friends (1)",
+      "animated_sticker_pack": true,
+      "stickers": "15"
+    },
+    {
+      "identifier": "hands4friends2",
+      "name": "Hands 4 Friends (2)",
+      "animated_sticker_pack": true,
+      "stickers": "15"
+    },
+    {
+      "identifier": "emoji15",
+      "name": "Emojis 15",
+      "animated_sticker_pack": true,
+      "stickers": "11"
+    },
+    {
+      "identifier": "emojis3d7",
+      "name": "Emojis 3d 7",
+      "animated_sticker_pack": true,
+      "stickers": "20"
+    },
+    {
+      "identifier": "emojis3d8",
+      "name": "Emojis 3d 8",
+      "animated_sticker_pack": true,
+      "stickers": "20"
+    },
+    {
+      "identifier": "emojis3d9",
+      "name": "Emojis 3d 9",
+      "animated_sticker_pack": true,
+      "stickers": "20"
+    },
+    {
+      "identifier": "emojis3d10",
+      "name": "Emojis 3d 10",
+      "animated_sticker_pack": true,
+      "stickers": "20"
+    },
+    {
+      "identifier": "emojiscovid",
+      "name": "Emojis Covid",
+      "animated_sticker_pack": true,
+      "stickers": "12"
+    },
+    {
+      "identifier": "emojisgerman1",
+      "name": "Emojis",
+      "animated_sticker_pack": true,
+      "stickers": "10"
+    },
+    {
+      "identifier": "memojigirl1",
+      "name": "Memoji Girl 1",
+      "animated_sticker_pack": true,
+      "stickers": "14"
+    },
+    {
+      "identifier": "memojigirl2",
+      "name": "Memoji Girl 2",
+      "animated_sticker_pack": true,
+      "stickers": "6"
+    },
+    {
+      "identifier": "motiongirl1",
+      "name": "Motion Girl 1",
+      "animated_sticker_pack": true,
+      "stickers": "30"
+    },
+    {
+      "identifier": "emoji9",
+      "name": "Emoji 9",
+      "animated_sticker_pack": true,
+      "stickers": "12"
+    },
+    {
+      "identifier": "emoji10",
+      "name": "Emoji 10",
+      "animated_sticker_pack": true,
+      "stickers": "12"
+    },
+    {
+      "identifier": "emoji11",
+      "name": "Emoji 11",
+      "animated_sticker_pack": true,
+      "stickers": "12"
+    },
+    {
+      "identifier": "emoji12",
+      "name": "Emoji 12",
+      "animated_sticker_pack": true,
+      "stickers": "12"
+    },
+    {
+      "identifier": "emoji13",
+      "name": "Emoji 13",
+      "animated_sticker_pack": true,
+      "stickers": "12"
+    },
+    {
+      "identifier": "emoji14",
+      "name": "Emoji 14",
+      "animated_sticker_pack": true,
+      "stickers": "11"
+    },
+    {
+      "identifier": "emojisimple1",
+      "name": "Emojis 1",
+      "animated_sticker_pack": true,
+      "stickers": "30"
+    },
+    {
+      "identifier": "emojisimple2",
+      "name": "Emojis 2",
+      "animated_sticker_pack": true,
+      "stickers": "17"
+    },
+    {
+      "identifier": "emojis3d5",
+      "name": "Emojis 3d 5",
+      "animated_sticker_pack": true,
+      "stickers": "15"
+    },
+    {
+      "identifier": "emojis3d6",
+      "name": "Emojis 3d 6",
+      "animated_sticker_pack": true,
+      "stickers": "18"
+    },
+    {
+      "identifier": "emojis3d3",
+      "name": "Emojis 3d 3",
+      "animated_sticker_pack": true,
+      "stickers": "15"
+    },
+    {
+      "identifier": "emojis3d4",
+      "name": "Emojis 3d 4",
+      "animated_sticker_pack": true,
+      "stickers": "15"
+    },
+    {
+      "identifier": "emojis3d1",
+      "name": "Emojis 3d 1",
+      "animated_sticker_pack": true,
+      "stickers": "15"
+    },
+    {
+      "identifier": "emojis3d2",
+      "name": "Emojis 3d 2",
+      "animated_sticker_pack": true,
+      "stickers": "15"
+    },
+    {
+      "identifier": "emojiboy1",
+      "name": "Emoji Boy 1",
+      "animated_sticker_pack": true,
+      "stickers": "18"
+    },
+    {
+      "identifier": "emojiboy2",
+      "name": "Emoji Boy 2",
+      "animated_sticker_pack": true,
+      "stickers": "17"
+    },
+    {
+      "identifier": "emoji8",
+      "name": "Emoji 8",
+      "animated_sticker_pack": true,
+      "stickers": "27"
+    },
+    {
+      "identifier": "emoji7",
+      "name": "Emoji 7",
+      "animated_sticker_pack": true,
+      "stickers": "15"
+    },
+    {
+      "identifier": "emoji6",
+      "name": "Emoji 6",
+      "animated_sticker_pack": true,
+      "stickers": "23"
+    },
+    {
+      "identifier": "emoji5",
+      "name": "Emoji 5",
+      "animated_sticker_pack": true,
+      "stickers": "30"
+    },
+    {
+      "identifier": "emoji4",
+      "name": "Emoji 4",
+      "animated_sticker_pack": true,
+      "stickers": "29"
+    },
+    {
+      "identifier": "emoji3",
+      "name": "Emoji 3",
+      "animated_sticker_pack": true,
+      "stickers": "30"
+    },
+    {
+      "identifier": "emoji2",
+      "name": "Emoji 2",
+      "animated_sticker_pack": true,
+      "stickers": "27"
+    },
+    {
+      "identifier": "emoji1",
+      "name": "Emoji 1",
+      "animated_sticker_pack": true,
+      "stickers": "16"
+    }
+  ]
+}

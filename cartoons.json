@@ -1,0 +1,1314 @@
+{
+  "android_play_store_link":"https://play.google.com/store/apps/details?id=com.astromobile.stickers.animados",
+  "ios_app_store_link": "",
+  "sticker_packs": [
+    {
+      "identifier": "pocoyo1",
+      "name": "Pocoyo 1",
+      "animated_sticker_pack": true,
+      "stickers": "12"
+    },
+    {
+      "identifier": "pocoyo2",
+      "name": "Pocoyo 2",
+      "animated_sticker_pack": true,
+      "stickers": "8"
+    },
+    {
+      "identifier": "pocoyo3",
+      "name": "Pocoyo 3",
+      "animated_sticker_pack": true,
+      "stickers": "9"
+    },
+    {
+      "identifier": "pocoyo4",
+      "name": "Pocoyo 4",
+      "animated_sticker_pack": true,
+      "stickers": "16"
+    },
+    {
+      "identifier": "pocoyo5",
+      "name": "Pocoyo 5",
+      "animated_sticker_pack": true,
+      "stickers": "16"
+    },
+    {
+      "identifier": "pocoyo6",
+      "name": "Pocoyo 6",
+      "animated_sticker_pack": true,
+      "stickers": "15"
+    },
+    {
+      "identifier": "simpsons7",
+      "name": "Simpsons 7",
+      "animated_sticker_pack": true,
+      "stickers": "15"
+    },
+    {
+      "identifier": "simpsons8",
+      "name": "Simpsons 8",
+      "animated_sticker_pack": true,
+      "stickers": "15"
+    },
+    {
+      "identifier": "simpsons9",
+      "name": "Simpsons 9",
+      "animated_sticker_pack": true,
+      "stickers": "15"
+    },
+    {
+      "identifier": "snoppydraw1",
+      "name": "Snoppy Draw 1",
+      "animated_sticker_pack": true,
+      "stickers": "15"
+    },
+    {
+      "identifier": "snoppydraw2",
+      "name": "Snoppy Draw 2",
+      "animated_sticker_pack": true,
+      "stickers": "15"
+    },
+    {
+      "identifier": "snoppydraw3",
+      "name": "Snoppy Draw 3",
+      "animated_sticker_pack": true,
+      "stickers": "15"
+    },
+    {
+      "identifier": "snoopyloosey1",
+      "name": "Snoopy Loosey 1",
+      "animated_sticker_pack": true,
+      "stickers": "12"
+    },
+    {
+      "identifier": "snoopyloosey2",
+      "name": "Snoopy Loosey 2",
+      "animated_sticker_pack": true,
+      "stickers": "12"
+    },
+    {
+      "identifier": "gumball2",
+      "name": "Gumball 2",
+      "animated_sticker_pack": true,
+      "stickers": "15"
+    },
+    {
+      "identifier": "gumball3",
+      "name": "Gumball 3",
+      "animated_sticker_pack": true,
+      "stickers": "15"
+    },
+    {
+      "identifier": "hellokitty11",
+      "name": "Hello Kitty 11",
+      "animated_sticker_pack": true,
+      "stickers": "12"
+    },
+    {
+      "identifier": "hellokitty12",
+      "name": "Hello Kitty 12",
+      "animated_sticker_pack": true,
+      "stickers": "12"
+    },
+    {
+      "identifier": "batman1",
+      "name": "Batman 1",
+      "animated_sticker_pack": true,
+      "stickers": "16"
+    },
+    {
+      "identifier": "homersimpson1",
+      "name": "Homer Simpson 1",
+      "animated_sticker_pack": true,
+      "stickers": "12"
+    },
+    {
+      "identifier": "homersimpson2",
+      "name": "Homer Simpson 2",
+      "animated_sticker_pack": true,
+      "stickers": "12"
+    },
+    {
+      "identifier": "luca1",
+      "name": "Luca 1",
+      "animated_sticker_pack": true,
+      "stickers": "10"
+    },
+    {
+      "identifier": "spongebob1",
+      "name": "Sponge Bob 1",
+      "animated_sticker_pack": true,
+      "stickers": "15"
+    },
+    {
+      "identifier": "peppapig2",
+      "name": "Peppa Pig 2",
+      "animated_sticker_pack": true,
+      "stickers": "14"
+    },
+    {
+      "identifier": "shrek2",
+      "name": "Shrek (2)",
+      "animated_sticker_pack": true,
+      "stickers": "15"
+    },
+    {
+      "identifier": "shrek3",
+      "name": "Shrek (3)",
+      "animated_sticker_pack": true,
+      "stickers": "15"
+    },
+    {
+      "identifier": "shrek4",
+      "name": "Shrek (4)",
+      "animated_sticker_pack": true,
+      "stickers": "15"
+    },
+    {
+      "identifier": "minions8",
+      "name": "Minions 8",
+      "animated_sticker_pack": true,
+      "stickers": "12"
+    },
+    {
+      "identifier": "minions9",
+      "name": "Minions 9",
+      "animated_sticker_pack": true,
+      "stickers": "12"
+    },
+    {
+      "identifier": "minions10",
+      "name": "Minions 10",
+      "animated_sticker_pack": true,
+      "stickers": "12"
+    },
+    {
+      "identifier": "minions11",
+      "name": "Minions 11",
+      "animated_sticker_pack": true,
+      "stickers": "14"
+    },
+    {
+      "identifier": "kungfupanda1",
+      "name": "Kung Fu Panda 1",
+      "animated_sticker_pack": true,
+      "stickers": "12"
+    },
+    {
+      "identifier": "kungfupanda2",
+      "name": "Kung Fu Panda 2",
+      "animated_sticker_pack": true,
+      "stickers": "12"
+    },
+    {
+      "identifier": "hellokitty9",
+      "name": "Hello Kitty 9",
+      "animated_sticker_pack": true,
+      "stickers": "12"
+    },
+    {
+      "identifier": "hellokitty10",
+      "name": "Hello Kitty 10",
+      "animated_sticker_pack": true,
+      "stickers": "12"
+    },
+    {
+      "identifier": "simpsons6",
+      "name": "Simpsons 6",
+      "animated_sticker_pack": true,
+      "stickers": "8"
+    },
+    {
+      "identifier": "minions7",
+      "name": "Minions 7",
+      "animated_sticker_pack": true,
+      "stickers": "15"
+    },
+    {
+      "identifier": "dumbo1",
+      "name": "Dumbo (1)",
+      "animated_sticker_pack": true,
+      "stickers": "14"
+    },
+    {
+      "identifier": "dumbo2",
+      "name": "Dumbo (2)",
+      "animated_sticker_pack": true,
+      "stickers": "13"
+    },
+    {
+      "identifier": "lilolove",
+      "name": "Lilo y Stitch",
+      "animated_sticker_pack": true,
+      "stickers": "12"
+    },
+    {
+      "identifier": "lilolove2",
+      "name": "Lilo y Stitch 2",
+      "animated_sticker_pack": true,
+      "stickers": "12"
+    },
+    {
+      "identifier": "duck3d1",
+      "name": "Duck 3D",
+      "animated_sticker_pack": true,
+      "stickers": "17"
+    },
+    {
+      "identifier": "garfield3",
+      "name": "Garfield 3",
+      "animated_sticker_pack": true,
+      "stickers": "12"
+    },
+    {
+      "identifier": "garfield2",
+      "name": "Garfield 2",
+      "animated_sticker_pack": true,
+      "stickers": "12"
+    },
+    {
+      "identifier": "hellokitty7",
+      "name": "Hello Kitty 7",
+      "animated_sticker_pack": true,
+      "stickers": "12"
+    },
+    {
+      "identifier": "hellokitty8",
+      "name": "Hello Kitty 8",
+      "animated_sticker_pack": true,
+      "stickers": "12"
+    },
+    {
+      "identifier": "mickeymouse13",
+      "name": "Mickey Mouse 13",
+      "animated_sticker_pack": true,
+      "stickers": "12"
+    },
+    {
+      "identifier": "mickeymouse14",
+      "name": "Mickey Mouse 14",
+      "animated_sticker_pack": true,
+      "stickers": "12"
+    },
+    {
+      "identifier": "shrek1",
+      "name": "Shrek",
+      "animated_sticker_pack": true,
+      "stickers": "8"
+    },
+    {
+      "identifier": "mickeymouse11",
+      "name": "Mickey Mouse 11",
+      "animated_sticker_pack": true,
+      "stickers": "12"
+    },
+    {
+      "identifier": "mickeymouse12",
+      "name": "Mickey Mouse 12",
+      "animated_sticker_pack": true,
+      "stickers": "12"
+    },
+    {
+      "identifier": "kaomoji",
+      "name": "Kaomoji",
+      "animated_sticker_pack": true,
+      "stickers": "11"
+    },
+    {
+      "identifier": "minniemouse1",
+      "name": "Minnie Mouse 1",
+      "animated_sticker_pack": true,
+      "stickers": "12"
+    },
+    {
+      "identifier": "minniemouse2",
+      "name": "Minnie Mouse 2",
+      "animated_sticker_pack": true,
+      "stickers": "12"
+    },
+    {
+      "identifier": "chipndale1",
+      "name": "Chip \u0026 Dale 1",
+      "animated_sticker_pack": true,
+      "stickers": "12"
+    },
+    {
+      "identifier": "chipndale2",
+      "name": "Chip \u0026 Dale 2",
+      "animated_sticker_pack": true,
+      "stickers": "12"
+    },
+    {
+      "identifier": "winniethepooh6",
+      "name": "Winnie the Pooh 6",
+      "animated_sticker_pack": true,
+      "stickers": "12"
+    },
+    {
+      "identifier": "mickeymouse9",
+      "name": "Mickey Mouse 9",
+      "animated_sticker_pack": true,
+      "stickers": "12"
+    },
+    {
+      "identifier": "mickeymouse10",
+      "name": "Mickey Mouse 10",
+      "animated_sticker_pack": true,
+      "stickers": "12"
+    },
+    {
+      "identifier": "winniethepooh5",
+      "name": "Winnie The Pooh 5",
+      "animated_sticker_pack": true,
+      "stickers": "12"
+    },
+    {
+      "identifier": "geniealaddin1",
+      "name": "Genie 1",
+      "animated_sticker_pack": true,
+      "stickers": "12"
+    },
+    {
+      "identifier": "geniealaddin2",
+      "name": "Genie 2",
+      "animated_sticker_pack": true,
+      "stickers": "12"
+    },
+    {
+      "identifier": "aliens1",
+      "name": "Aliens 1",
+      "animated_sticker_pack": true,
+      "stickers": "12"
+    },
+    {
+      "identifier": "aliens2",
+      "name": "Aliens 2",
+      "animated_sticker_pack": true,
+      "stickers": "12"
+    },
+    {
+      "identifier": "aliceinwonderland1",
+      "name": "Alice in Wonderland 1",
+      "animated_sticker_pack": true,
+      "stickers": "12"
+    },
+    {
+      "identifier": "aliceinwonderland2",
+      "name": "Alice in Wonderland 2",
+      "animated_sticker_pack": true,
+      "stickers": "12"
+    },
+    {
+      "identifier": "marvel1",
+      "name": "Marvel 1",
+      "animated_sticker_pack": true,
+      "stickers": "21"
+    },
+    {
+      "identifier": "southpark2",
+      "name": "South Park 2",
+      "animated_sticker_pack": true,
+      "stickers": "22"
+    },
+    {
+      "identifier": "winniethepooh4",
+      "name": "Winnie Pooh 4",
+      "animated_sticker_pack": true,
+      "stickers": "12"
+    },
+    {
+      "identifier": "winniethepooh3",
+      "name": "Winnie Pooh 3",
+      "animated_sticker_pack": true,
+      "stickers": "12"
+    },
+    {
+      "identifier": "tomtoodles1",
+      "name": "Tom Toodles",
+      "animated_sticker_pack": true,
+      "stickers": "13"
+    },
+    {
+      "identifier": "tomtoodles2",
+      "name": "Tom Toodles 2",
+      "animated_sticker_pack": true,
+      "stickers": "13"
+    },
+    {
+      "identifier": "minions6",
+      "name": "Minions 6",
+      "animated_sticker_pack": true,
+      "stickers": "10"
+    },
+    {
+      "identifier": "minions5",
+      "name": "Minions 5",
+      "animated_sticker_pack": true,
+      "stickers": "10"
+    },
+    {
+      "identifier": "goblinka1",
+      "name": "Goblin Ka 1",
+      "animated_sticker_pack": true,
+      "stickers": "12"
+    },
+    {
+      "identifier": "goblinka2",
+      "name": "Goblin Ka 2",
+      "animated_sticker_pack": true,
+      "stickers": "12"
+    },
+    {
+      "identifier": "princessdisney1",
+      "name": "Princess Disney 1",
+      "animated_sticker_pack": true,
+      "stickers": "12"
+    },
+    {
+      "identifier": "princessdisney2",
+      "name": "Princess Disney 2",
+      "animated_sticker_pack": true,
+      "stickers": "12"
+    },
+    {
+      "identifier": "princessriel1",
+      "name": "Princess Riel 1",
+      "animated_sticker_pack": true,
+      "stickers": "12"
+    },
+    {
+      "identifier": "princessriel2",
+      "name": "Princess Riel 2",
+      "animated_sticker_pack": true,
+      "stickers": "12"
+    },
+    {
+      "identifier": "blippi1",
+      "name": "Blippi (1)",
+      "animated_sticker_pack": true,
+      "stickers": "9"
+    },
+    {
+      "identifier": "littledino1",
+      "name": "Little Dino 1",
+      "animated_sticker_pack": true,
+      "stickers": "12"
+    },
+    {
+      "identifier": "littledino2",
+      "name": "Little Dino 2",
+      "animated_sticker_pack": true,
+      "stickers": "12"
+    },
+    {
+      "identifier": "disneymarie1",
+      "name": "Disney Marie 1",
+      "animated_sticker_pack": true,
+      "stickers": "12"
+    },
+    {
+      "identifier": "disneymarie2",
+      "name": "Disney Marie 2",
+      "animated_sticker_pack": true,
+      "stickers": "12"
+    },
+    {
+      "identifier": "sweetfairy1",
+      "name": "Sweet Fairy 1",
+      "animated_sticker_pack": true,
+      "stickers": "12"
+    },
+    {
+      "identifier": "sweetfairy2",
+      "name": "Sweet Fairy 2",
+      "animated_sticker_pack": true,
+      "stickers": "12"
+    },
+    {
+      "identifier": "ratatouille1",
+      "name": "Ratatouille 1",
+      "animated_sticker_pack": true,
+      "stickers": "15"
+    },
+    {
+      "identifier": "monsterinc1",
+      "name": "Monster Inc 1",
+      "animated_sticker_pack": true,
+      "stickers": "16"
+    },
+    {
+      "identifier": "hellokitty5",
+      "name": "Hello Kitty 5",
+      "animated_sticker_pack": true,
+      "stickers": "12"
+    },
+    {
+      "identifier": "hellokitty6",
+      "name": "Hello Kitty 6",
+      "animated_sticker_pack": true,
+      "stickers": "12"
+    },
+    {
+      "identifier": "mickeymouse7",
+      "name": "Mickey Mouse 7",
+      "animated_sticker_pack": true,
+      "stickers": "12"
+    },
+    {
+      "identifier": "mickeymouse8",
+      "name": "Mickey Mouse 8",
+      "animated_sticker_pack": true,
+      "stickers": "12"
+    },
+    {
+      "identifier": "mickeymouse5",
+      "name": "Mickey Mouse 5",
+      "animated_sticker_pack": true,
+      "stickers": "12"
+    },
+    {
+      "identifier": "mickeymouse6",
+      "name": "Mickey Mouse 6",
+      "animated_sticker_pack": true,
+      "stickers": "12"
+    },
+    {
+      "identifier": "snoopy1",
+      "name": "Snoopy 1",
+      "animated_sticker_pack": true,
+      "stickers": "12"
+    },
+    {
+      "identifier": "snoopy2",
+      "name": "Snoopy 2",
+      "animated_sticker_pack": true,
+      "stickers": "12"
+    },
+    {
+      "identifier": "snoopy3",
+      "name": "Snoopy 3",
+      "animated_sticker_pack": true,
+      "stickers": "12"
+    },
+    {
+      "identifier": "snoopy4",
+      "name": "Snoopy 4",
+      "animated_sticker_pack": true,
+      "stickers": "12"
+    },
+    {
+      "identifier": "minions1",
+      "name": "Minions 1",
+      "animated_sticker_pack": true,
+      "stickers": "12"
+    },
+    {
+      "identifier": "minions2",
+      "name": "Minions 2",
+      "animated_sticker_pack": true,
+      "stickers": "12"
+    },
+    {
+      "identifier": "minions3",
+      "name": "Minions 3",
+      "animated_sticker_pack": true,
+      "stickers": "12"
+    },
+    {
+      "identifier": "minions4",
+      "name": "Minions 4",
+      "animated_sticker_pack": true,
+      "stickers": "12"
+    },
+    {
+      "identifier": "thelittlemermaid1",
+      "name": "The Little Mermaid 1",
+      "animated_sticker_pack": true,
+      "stickers": "12"
+    },
+    {
+      "identifier": "thelittlemermaid2",
+      "name": "The Little Mermaid 2",
+      "animated_sticker_pack": true,
+      "stickers": "12"
+    },
+    {
+      "identifier": "winniethepooh1",
+      "name": "Winnie the Pooh 1",
+      "animated_sticker_pack": true,
+      "stickers": "12"
+    },
+    {
+      "identifier": "winniethepooh2",
+      "name": "Winnie the Pooh 2",
+      "animated_sticker_pack": true,
+      "stickers": "12"
+    },
+    {
+      "identifier": "stitchscrump1",
+      "name": "Stitch and Scrump 1",
+      "animated_sticker_pack": true,
+      "stickers": "12"
+    },
+    {
+      "identifier": "stitchscrump2",
+      "name": "Stitch and Scrump 2",
+      "animated_sticker_pack": true,
+      "stickers": "12"
+    },
+    {
+      "identifier": "bighero1",
+      "name": "Big Hero 1",
+      "animated_sticker_pack": true,
+      "stickers": "12"
+    },
+    {
+      "identifier": "bighero2",
+      "name": "Big Hero 2",
+      "animated_sticker_pack": true,
+      "stickers": "12"
+    },
+    {
+      "identifier": "blinkblink1",
+      "name": "Blink Blink 1",
+      "animated_sticker_pack": true,
+      "stickers": "16"
+    },
+    {
+      "identifier": "blinkblink2",
+      "name": "Blink Blink 2",
+      "animated_sticker_pack": true,
+      "stickers": "15"
+    },
+    {
+      "identifier": "avengers1",
+      "name": "Avengers 1",
+      "animated_sticker_pack": true,
+      "stickers": "8"
+    },
+    {
+      "identifier": "toystory1",
+      "name": "Toy Story 1",
+      "animated_sticker_pack": true,
+      "stickers": "11"
+    },
+    {
+      "identifier": "hellokitty3",
+      "name": "Hello Kitty 3",
+      "animated_sticker_pack": true,
+      "stickers": "12"
+    },
+    {
+      "identifier": "hellokitty4",
+      "name": "Hello Kitty 4",
+      "animated_sticker_pack": true,
+      "stickers": "12"
+    },
+    {
+      "identifier": "mickeymouse1",
+      "name": "Mickey Mouse 1",
+      "animated_sticker_pack": true,
+      "stickers": "12"
+    },
+    {
+      "identifier": "mickeymouse2",
+      "name": "Mickey Mouse 2",
+      "animated_sticker_pack": true,
+      "stickers": "12"
+    },
+    {
+      "identifier": "mickeymouse3",
+      "name": "Mickey Mouse 3",
+      "animated_sticker_pack": true,
+      "stickers": "12"
+    },
+    {
+      "identifier": "hellokitty2",
+      "name": "Hello Kitty 2",
+      "animated_sticker_pack": true,
+      "stickers": "18"
+    },
+    {
+      "identifier": "bokunohero1",
+      "name": "Bokuno Hero 1",
+      "animated_sticker_pack": true,
+      "stickers": "13"
+    },
+    {
+      "identifier": "bokunohero2",
+      "name": "Bokuno Hero 2",
+      "animated_sticker_pack": true,
+      "stickers": "13"
+    },
+    {
+      "identifier": "bokunohero3",
+      "name": "Bokuno Hero 3",
+      "animated_sticker_pack": true,
+      "stickers": "11"
+    },
+    {
+      "identifier": "attackontitan4",
+      "name": "Attack on Titan 4",
+      "animated_sticker_pack": true,
+      "stickers": "11"
+    },
+    {
+      "identifier": "jakethedog",
+      "name": "Jake the Dog",
+      "animated_sticker_pack": true,
+      "stickers": "20"
+    },
+    {
+      "identifier": "sailormoon1",
+      "name": "Sailor Moon 1",
+      "animated_sticker_pack": true,
+      "stickers": "12"
+    },
+    {
+      "identifier": "sailormoon2",
+      "name": "Sailor Moon 2",
+      "animated_sticker_pack": true,
+      "stickers": "12"
+    },
+    {
+      "identifier": "sailormoon3",
+      "name": "Sailor Moon 3",
+      "animated_sticker_pack": true,
+      "stickers": "15"
+    },
+    {
+      "identifier": "demonslayer2",
+      "name": "Demon Slayer 2",
+      "animated_sticker_pack": true,
+      "stickers": "12"
+    },
+    {
+      "identifier": "demonslayer3",
+      "name": "Demon Slayer 3",
+      "animated_sticker_pack": true,
+      "stickers": "13"
+    },
+    {
+      "identifier": "saintseiya8",
+      "name": "Saint Seiya 8",
+      "animated_sticker_pack": true,
+      "stickers": "12"
+    },
+    {
+      "identifier": "saintseiya7",
+      "name": "Saint Seiya 7",
+      "animated_sticker_pack": true,
+      "stickers": "18"
+    },
+    {
+      "identifier": "saintseiya6",
+      "name": "Saint Seiya 6",
+      "animated_sticker_pack": true,
+      "stickers": "12"
+    },
+    {
+      "identifier": "reactiongirls1",
+      "name": "Reaction Girls 1",
+      "animated_sticker_pack": true,
+      "stickers": "16"
+    },
+    {
+      "identifier": "pokemon11",
+      "name": "Pokemon 11",
+      "animated_sticker_pack": true,
+      "stickers": "21"
+    },
+    {
+      "identifier": "onepunchman2",
+      "name": "One Punch Man 2",
+      "animated_sticker_pack": true,
+      "stickers": "13"
+    },
+    {
+      "identifier": "onepunchman1",
+      "name": "One Punch Man 1",
+      "animated_sticker_pack": true,
+      "stickers": "13"
+    },
+    {
+      "identifier": "onepiece13",
+      "name": "One Piece 13",
+      "animated_sticker_pack": true,
+      "stickers": "13"
+    },
+    {
+      "identifier": "onepiece12",
+      "name": "One Piece 12",
+      "animated_sticker_pack": true,
+      "stickers": "15"
+    },
+    {
+      "identifier": "onepiece11",
+      "name": "One Piece 11",
+      "animated_sticker_pack": true,
+      "stickers": "18"
+    },
+    {
+      "identifier": "naruto14",
+      "name": "Naruto 14",
+      "animated_sticker_pack": true,
+      "stickers": "10"
+    },
+    {
+      "identifier": "naruto13",
+      "name": "Naruto 13",
+      "animated_sticker_pack": true,
+      "stickers": "10"
+    },
+    {
+      "identifier": "naruto12",
+      "name": "Naruto 12",
+      "animated_sticker_pack": true,
+      "stickers": "12"
+    },
+    {
+      "identifier": "fullmetal7",
+      "name": "Full Metal 7",
+      "animated_sticker_pack": true,
+      "stickers": "12"
+    },
+    {
+      "identifier": "fullmetal6",
+      "name": "Full Metal 6",
+      "animated_sticker_pack": true,
+      "stickers": "12"
+    },
+    {
+      "identifier": "evangelion9",
+      "name": "Evangelion 9",
+      "animated_sticker_pack": true,
+      "stickers": "12"
+    },
+    {
+      "identifier": "evangelion8",
+      "name": "Evangelion 8",
+      "animated_sticker_pack": true,
+      "stickers": "13"
+    },
+    {
+      "identifier": "dragonballz17",
+      "name": "Dragon Ball Z 17",
+      "animated_sticker_pack": true,
+      "stickers": "13"
+    },
+    {
+      "identifier": "dragonballz16",
+      "name": "Dragon Ball Z 16",
+      "animated_sticker_pack": true,
+      "stickers": "14"
+    },
+    {
+      "identifier": "dragonballz15",
+      "name": "Dragon Ball Z 15",
+      "animated_sticker_pack": true,
+      "stickers": "14"
+    },
+    {
+      "identifier": "dragonballz14",
+      "name": "Dragon Ball Z 14",
+      "animated_sticker_pack": true,
+      "stickers": "15"
+    },
+    {
+      "identifier": "dragonballz13",
+      "name": "Dragon Ball Z 13",
+      "animated_sticker_pack": true,
+      "stickers": "14"
+    },
+    {
+      "identifier": "dragonballz12",
+      "name": "Dragon Ball Z 12",
+      "animated_sticker_pack": true,
+      "stickers": "13"
+    },
+    {
+      "identifier": "dragonballz11",
+      "name": "Dragon Ball Z 11",
+      "animated_sticker_pack": true,
+      "stickers": "12"
+    },
+    {
+      "identifier": "deathnote12",
+      "name": "Death Note 12",
+      "animated_sticker_pack": true,
+      "stickers": "12"
+    },
+    {
+      "identifier": "azurlane1",
+      "name": "Azur Lane 1",
+      "animated_sticker_pack": true,
+      "stickers": "10"
+    },
+    {
+      "identifier": "azurlane2",
+      "name": "Azur Lane 2",
+      "animated_sticker_pack": true,
+      "stickers": "11"
+    },
+    {
+      "identifier": "attackontitan3",
+      "name": "Attack on Titan 3",
+      "animated_sticker_pack": true,
+      "stickers": "12"
+    },
+    {
+      "identifier": "attackontitan2",
+      "name": "Attack on Titan 2",
+      "animated_sticker_pack": true,
+      "stickers": "13"
+    },
+    {
+      "identifier": "pikachu2",
+      "name": "Pikachu 2",
+      "animated_sticker_pack": true,
+      "stickers": "12"
+    },
+    {
+      "identifier": "naruto11",
+      "name": "Naruto 11",
+      "animated_sticker_pack": true,
+      "stickers": "12"
+    },
+    {
+      "identifier": "cocomelon1",
+      "name": "Cocomelon (1)",
+      "animated_sticker_pack": true,
+      "stickers": "7"
+    },
+    {
+      "identifier": "trumpcartoon",
+      "name": "Trump Cartoon",
+      "animated_sticker_pack": true,
+      "stickers": "20"
+    },
+    {
+      "identifier": "minions",
+      "name": "Minions",
+      "animated_sticker_pack": true,
+      "stickers": "15"
+    },
+    {
+      "identifier": "felix1",
+      "name": "Felix the Cat (1)",
+      "animated_sticker_pack": true,
+      "stickers": "13"
+    },
+    {
+      "identifier": "felix2",
+      "name": "Felix the Cat (2)",
+      "animated_sticker_pack": true,
+      "stickers": "12"
+    },
+    {
+      "identifier": "meeseeks",
+      "name": "Meeseeks",
+      "animated_sticker_pack": true,
+      "stickers": "14"
+    },
+    {
+      "identifier": "mrpoopy",
+      "name": "Mr Poopy",
+      "animated_sticker_pack": true,
+      "stickers": "17"
+    },
+    {
+      "identifier": "patrick1",
+      "name": "Patrick (1) ",
+      "animated_sticker_pack": true,
+      "stickers": "14"
+    },
+    {
+      "identifier": "patrick2",
+      "name": "Patrick (2) ",
+      "animated_sticker_pack": true,
+      "stickers": "13"
+    },
+    {
+      "identifier": "hellokitty1",
+      "name": "Hello Kitty ",
+      "animated_sticker_pack": true,
+      "stickers": "11"
+    },
+    {
+      "identifier": "gumloveIs1",
+      "name": "Gum Love Is ",
+      "animated_sticker_pack": true,
+      "stickers": "15"
+    },
+    {
+      "identifier": "simpsons5",
+      "name": "The Simpsons (5)",
+      "animated_sticker_pack": true,
+      "stickers": "16"
+    },
+    {
+      "identifier": "peppapig1",
+      "name": "Peppa Pig 1",
+      "animated_sticker_pack": true,
+      "stickers": "14"
+    },
+    {
+      "identifier": "brawlstars1",
+      "name": "Brawl Stars 1",
+      "animated_sticker_pack": true,
+      "stickers": "15"
+    },
+    {
+      "identifier": "brawlstars2",
+      "name": "Brawl Stars 2",
+      "animated_sticker_pack": true,
+      "stickers": "12"
+    },
+    {
+      "identifier": "simpsons4",
+      "name": "Simpsons 4",
+      "animated_sticker_pack": true,
+      "stickers": "15"
+    },
+    {
+      "identifier": "gumball1",
+      "name": "Gumball 1",
+      "animated_sticker_pack": true,
+      "stickers": "15"
+    },
+    {
+      "identifier": "bartsimpson1",
+      "name": "Bart Simpsons",
+      "animated_sticker_pack": true,
+      "stickers": "16"
+    },
+    {
+      "identifier": "joker1",
+      "name": "Joker",
+      "animated_sticker_pack": true,
+      "stickers": "15"
+    },
+    {
+      "identifier": "memo",
+      "name": "Memo",
+      "animated_sticker_pack": true,
+      "stickers": "25"
+    },
+    {
+      "identifier": "squidwardinlove",
+      "name": "Squidward in Love",
+      "animated_sticker_pack": true,
+      "stickers": "20"
+    },
+    {
+      "identifier": "soul1",
+      "name": "Soul 1",
+      "animated_sticker_pack": true,
+      "stickers": "21"
+    },
+    {
+      "identifier": "kento1",
+      "name": "Kento 1",
+      "animated_sticker_pack": true,
+      "stickers": "13"
+    },
+    {
+      "identifier": "kento2",
+      "name": "Kento 2",
+      "animated_sticker_pack": true,
+      "stickers": "12"
+    },
+    {
+      "identifier": "pinkpanther1",
+      "name": "Pink Panther",
+      "animated_sticker_pack": true,
+      "stickers": "10"
+    },
+    {
+      "identifier": "falcon1",
+      "name": "Falcon 1",
+      "animated_sticker_pack": true,
+      "stickers": "7"
+    },
+    {
+      "identifier": "simpsons2",
+      "name": "Simpsons 2",
+      "animated_sticker_pack": true,
+      "stickers": "10"
+    },
+    {
+      "identifier": "simpsons3",
+      "name": "Simpsons 3",
+      "animated_sticker_pack": true,
+      "stickers": "10"
+    },
+    {
+      "identifier": "stichpixel",
+      "name": "Stich Pixel",
+      "animated_sticker_pack": true,
+      "stickers": "24"
+    },
+    {
+      "identifier": "piglet1",
+      "name": "Piglet 1",
+      "animated_sticker_pack": true,
+      "stickers": "16"
+    },
+    {
+      "identifier": "sirenita1",
+      "name": "Little Mermaid 1",
+      "animated_sticker_pack": true,
+      "stickers": "15"
+    },
+    {
+      "identifier": "sirenita2",
+      "name": "Little Mermaid 2",
+      "animated_sticker_pack": true,
+      "stickers": "15"
+    },
+    {
+      "identifier": "garfield1",
+      "name": "Garfield 1",
+      "animated_sticker_pack": true,
+      "stickers": "15"
+    },
+    {
+      "identifier": "stitch1",
+      "name": "Stitch 1",
+      "animated_sticker_pack": true,
+      "stickers": "15"
+    },
+    {
+      "identifier": "stitch2",
+      "name": "Stitch 2",
+      "animated_sticker_pack": true,
+      "stickers": "11"
+    },
+    {
+      "identifier": "harleyquinn1",
+      "name": "Harley Quinn 1",
+      "animated_sticker_pack": true,
+      "stickers": "13"
+    },
+    {
+      "identifier": "harleyquinn2",
+      "name": "Harley Quinn 2",
+      "animated_sticker_pack": true,
+      "stickers": "12"
+    },
+    {
+      "identifier": "johnnybravo",
+      "name": "Johnny Bravo",
+      "animated_sticker_pack": true,
+      "stickers": "18"
+    },
+    {
+      "identifier": "stitch2",
+      "name": "Stitch 2",
+      "animated_sticker_pack": true,
+      "stickers": "11"
+    },
+    {
+      "identifier": "goku1",
+      "name": "Goku 1",
+      "animated_sticker_pack": true,
+      "stickers": "10"
+    },
+    {
+      "identifier": "adventuretime",
+      "name": "Adventure Time",
+      "animated_sticker_pack": true,
+      "stickers": "24"
+    },
+    {
+      "identifier": "pokemon2",
+      "name": "Pokemon2",
+      "animated_sticker_pack": true,
+      "stickers": "28"
+    },
+    {
+      "identifier": "girl",
+      "name": "Girl",
+      "animated_sticker_pack": true,
+      "stickers": "11"
+    },
+    {
+      "identifier": "cloud",
+      "name": "Cloud",
+      "animated_sticker_pack": true,
+      "stickers": "30"
+    },
+    {
+      "identifier": "tomandjerry",
+      "name": "Tom and Jerry",
+      "animated_sticker_pack": true,
+      "stickers": "9"
+    },
+    {
+      "identifier": "cutenurse",
+      "name": "Cute Nurse",
+      "animated_sticker_pack": true,
+      "stickers": "15"
+    },
+    {
+      "identifier": "southpark1",
+      "name": "South Park",
+      "animated_sticker_pack": true,
+      "stickers": "16"
+    },
+    {
+      "identifier": "mimo",
+      "name": "Mimo",
+      "animated_sticker_pack": true,
+      "stickers": "15"
+    },
+    {
+      "identifier": "cupido",
+      "name": "Cupido",
+      "animated_sticker_pack": true,
+      "stickers": "20"
+    },
+    {
+      "identifier": "pikachu",
+      "name": "Pack Pikachu 1",
+      "animated_sticker_pack": true,
+      "stickers": "20"
+    },
+    {
+      "identifier": "pokemon",
+      "name": "Pack Pokemon",
+      "animated_sticker_pack": true,
+      "stickers": "21"
+    },
+    {
+      "identifier": "squidward",
+      "name": "Pack Squidward",
+      "animated_sticker_pack": true,
+      "stickers": "10"
+    },
+    {
+      "identifier": "rickandmorty1",
+      "name": "Pack Rick and Morty 1",
+      "animated_sticker_pack": true,
+      "stickers": "15"
+    },
+    {
+      "identifier": "rickandmorty2",
+      "name": "Pack Rick and Morty 2",
+      "animated_sticker_pack": true,
+      "stickers": "15"
+    },
+    {
+      "identifier": "patricio",
+      "name": "Pack Patricio",
+      "animated_sticker_pack": true,
+      "stickers": "20"
+    },
+    {
+      "identifier": "simpsons1",
+      "name": "Pack The Simpsons",
+      "animated_sticker_pack": true,
+      "stickers": "19"
+    }
+  ]
+}

@@ -1,0 +1,138 @@
+{
+  "android_play_store_link":"https://play.google.com/store/apps/details?id=com.astromobile.stickers.animados",
+  "ios_app_store_link": "",
+  "sticker_packs": [
+    {
+      "identifier": "greenday2",
+      "name": "Green Day 2",
+      "animated_sticker_pack": true,
+      "stickers": "24"
+    },
+    {
+      "identifier": "greenday3",
+      "name": "Green Day 3",
+      "animated_sticker_pack": true,
+      "stickers": "24"
+    },
+    {
+      "identifier": "greenday4",
+      "name": "Green Day 4",
+      "animated_sticker_pack": true,
+      "stickers": "19"
+    },
+    {
+      "identifier": "serena",
+      "name": "Serena Williams",
+      "animated_sticker_pack": true,
+      "stickers": "12"
+    },
+    {
+      "identifier": "welcomebaby",
+      "name": "Welcome Baby",
+      "animated_sticker_pack": true,
+      "stickers": "12"
+    },
+    {
+      "identifier": "babygirl",
+      "name": "Baby Girl",
+      "animated_sticker_pack": true,
+      "stickers": "15"
+    },
+    {
+      "identifier": "lovehandle1",
+      "name": "Love Handle 1",
+      "animated_sticker_pack": true,
+      "stickers": "12"
+    },
+    {
+      "identifier": "lovehandle2",
+      "name": "Love Handle 2",
+      "animated_sticker_pack": true,
+      "stickers": "13"
+    },
+    {
+      "identifier": "baby1",
+      "name": "Baby 1",
+      "animated_sticker_pack": true,
+      "stickers": "10"
+    },
+    {
+      "identifier": "baby2",
+      "name": "Baby 2",
+      "animated_sticker_pack": true,
+      "stickers": "10"
+    },
+    {
+      "identifier": "taylorswift1",
+      "name": "Taylor Swift (1)",
+      "animated_sticker_pack": true,
+      "stickers": "19"
+    },
+    {
+      "identifier": "jimmyfallon1",
+      "name": "Jimmy Fallon (1)",
+      "animated_sticker_pack": true,
+      "stickers": "14"
+    },
+    {
+      "identifier": "jimmyfallon2",
+      "name": "Jimmy Fallon (2)",
+      "animated_sticker_pack": true,
+      "stickers": "14"
+    },
+    {
+      "identifier": "joebiden1",
+      "name": "Joe Biden (1)",
+      "animated_sticker_pack": true,
+      "stickers": "11"
+    },
+    {
+      "identifier": "joebiden2",
+      "name": "Joe Biden (2)",
+      "animated_sticker_pack": true,
+      "stickers": "14"
+    },
+    {
+      "identifier": "reactionman",
+      "name": "Reaction Man",
+      "animated_sticker_pack": true,
+      "stickers": "13"
+    },
+    {
+      "identifier": "reactionwoman",
+      "name": "Reaction Woman",
+      "animated_sticker_pack": true,
+      "stickers": "13"
+    },
+    {
+      "identifier": "ludmilla1",
+      "name": "Ludmilla",
+      "animated_sticker_pack": true,
+      "stickers": "10"
+    },
+    {
+      "identifier": "bolsonaro1",
+      "name": "Bolsonaro",
+      "animated_sticker_pack": true,
+      "stickers": "12"
+    },
+    {
+      "identifier": "harrypotter",
+      "name": "Harry Potter",
+      "animated_sticker_pack": true,
+      "stickers": "20"
+    },
+    {
+      "identifier": "chavodel8",
+      "name": "Chavo del 8",
+      "animated_sticker_pack": true,
+      "stickers": "15"
+    },
+    {
+      "identifier": "bts1",
+      "name": "Bts",
+      "animated_sticker_pack": true,
+      "stickers": "15"
+    }
+  ]
+}
