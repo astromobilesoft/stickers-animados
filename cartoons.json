@@ -3,6 +3,18 @@
   "ios_app_store_link": "",
   "sticker_packs": [
     {
+      "identifier": "mirabbit",
+      "name": "Mi rabbit (1)",
+      "animated_sticker_pack": true,
+      "stickers": "13"
+    },
+    {
+      "identifier": "mirabbit2",
+      "name": "Mi rabbit (2)",
+      "animated_sticker_pack": true,
+      "stickers": "13"
+    },
+    {
       "identifier": "pocoyo1",
       "name": "Pocoyo 1",
       "animated_sticker_pack": true,
