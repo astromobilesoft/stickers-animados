@@ -3,8 +3,8 @@
   "ios_app_store_link": "",
   "sticker_packs": [
     {
-      "identifier": "greenbun2",
-      "name": "Green Bun (2)",
+      "identifier": "greenbun1",
+      "name": "Green Bun (1)",
       "animated_sticker_pack": true,
       "stickers": "18"
     },
