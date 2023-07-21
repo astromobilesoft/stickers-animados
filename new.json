@@ -3,6 +3,30 @@
   "ios_app_store_link": "",
   "sticker_packs": [
     {
+      "identifier": "greenbun2",
+      "name": "Green Bun (2)",
+      "animated_sticker_pack": true,
+      "stickers": "18"
+    },
+    {
+      "identifier": "greenbun2",
+      "name": "Green Bun (2)",
+      "animated_sticker_pack": true,
+      "stickers": "18"
+    },
+    {
+      "identifier": "longgoose1",
+      "name": "Long Goose (1)",
+      "animated_sticker_pack": true,
+      "stickers": "15"
+    },
+    {
+      "identifier": "longgoose2",
+      "name": "Long Goose (2)",
+      "animated_sticker_pack": true,
+      "stickers": "15"
+    },
+    {
       "identifier": "barbie1",
       "name": "Barbie 1",
       "animated_sticker_pack": true,
