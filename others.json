@@ -3,6 +3,24 @@
   "ios_app_store_link": "",
   "sticker_packs": [
     {
+      "identifier": "semenanim1",
+      "name": "Semenim (1)",
+      "animated_sticker_pack": true,
+      "stickers": "15"
+    },
+    {
+      "identifier": "semenanim2",
+      "name": "Semenim (2)",
+      "animated_sticker_pack": true,
+      "stickers": "15"
+    },
+    {
+      "identifier": "semenanim3",
+      "name": "Semenim (3)",
+      "animated_sticker_pack": true,
+      "stickers": "15"
+    },
+    {
       "identifier": "threads1",
       "name": "Threads",
       "animated_sticker_pack": true,
