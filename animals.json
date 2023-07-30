@@ -3,6 +3,30 @@
   "ios_app_store_link": "",
   "sticker_packs": [
     {
+      "identifier": "snailhare1",
+      "name": "Snail Hare (1)",
+      "animated_sticker_pack": true,
+      "stickers": "15"
+    },
+    {
+      "identifier": "snailhare2",
+      "name": "Snail Hare (2)",
+      "animated_sticker_pack": true,
+      "stickers": "15"
+    },
+    {
+      "identifier": "otterspace1",
+      "name": "Otter Space (1)",
+      "animated_sticker_pack": true,
+      "stickers": "12"
+    },
+    {
+      "identifier": "otterspace2",
+      "name": "Otter Space (2)",
+      "animated_sticker_pack": true,
+      "stickers": "12"
+    },
+    {
       "identifier": "greenbun1",
       "name": "Green Bun (1)",
       "animated_sticker_pack": true,
