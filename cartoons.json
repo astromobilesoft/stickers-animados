@@ -3,6 +3,18 @@
   "ios_app_store_link": "",
   "sticker_packs": [
     {
+      "identifier": "bobsponge1",
+      "name": "Bob Sponge (1)",
+      "animated_sticker_pack": true,
+      "stickers": "15"
+    },
+    {
+      "identifier": "bobsponge2",
+      "name": "Bob Sponge (2)",
+      "animated_sticker_pack": true,
+      "stickers": "15"
+    },
+    {
       "identifier": "mirabbit",
       "name": "Mi rabbit (1)",
       "animated_sticker_pack": true,
