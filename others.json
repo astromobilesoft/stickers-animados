@@ -3,6 +3,24 @@
   "ios_app_store_link": "",
   "sticker_packs": [
     {
+      "identifier": "colorfulmessages1",
+      "name": "Colorful Message (1)",
+      "animated_sticker_pack": true,
+      "stickers": "12"
+    },
+    {
+      "identifier": "colorfulmessages2",
+      "name": "Colorful Message (2)",
+      "animated_sticker_pack": true,
+      "stickers": "12"
+    },
+    {
+      "identifier": "colorfulmessages3",
+      "name": "Colorful Message (3)",
+      "animated_sticker_pack": true,
+      "stickers": "12"
+    },
+    {
       "identifier": "semenanim1",
       "name": "Semenim (1)",
       "animated_sticker_pack": true,
