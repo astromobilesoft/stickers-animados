@@ -3,6 +3,18 @@
   "ios_app_store_link": "",
   "sticker_packs": [
     {
+      "identifier": "steveandmaggie1",
+      "name": "Steve and Maggie 1",
+      "animated_sticker_pack": true,
+      "stickers": "17"
+    },
+    {
+      "identifier": "steveandmaggie2",
+      "name": "Steve and Maggie 2",
+      "animated_sticker_pack": true,
+      "stickers": "17"
+    },
+    {
       "identifier": "tuttermouse",
       "name": "Tutter Mouse",
       "animated_sticker_pack": true,
