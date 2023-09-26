@@ -3,6 +3,24 @@
   "ios_app_store_link": "",
   "sticker_packs": [
     {
+      "identifier": "moderndinosaur1",
+      "name": "Modern Dinosaur (1)",
+      "animated_sticker_pack": true,
+      "stickers": "12"
+    },
+    {
+      "identifier": "moderndinosaur2",
+      "name": "Modern Dinosaur (2)",
+      "animated_sticker_pack": true,
+      "stickers": "12"
+    },
+    {
+      "identifier": "moderndinosaur3",
+      "name": "Modern Dinosaur (3)",
+      "animated_sticker_pack": true,
+      "stickers": "12"
+    },
+    {
       "identifier": "tuttermouse",
       "name": "Tutter Mouse",
       "animated_sticker_pack": true,
