@@ -3,6 +3,18 @@
   "ios_app_store_link": "",
   "sticker_packs": [
     {
+      "identifier": "kiwibird1",
+      "name": "Kiwi Bird (1)",
+      "animated_sticker_pack": true,
+      "stickers": "14"
+    },
+    {
+      "identifier": "kiwibird2",
+      "name": "Kiwi Bird (2)",
+      "animated_sticker_pack": true,
+      "stickers": "14"
+    },
+    {
       "identifier": "nekobell1",
       "name": "Neko Bell (1)",
       "animated_sticker_pack": true,
