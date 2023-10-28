@@ -3,6 +3,18 @@
   "ios_app_store_link": "",
   "sticker_packs": [
     {
+      "identifier": "funnypumpkins1",
+      "name": "Funny Pumpkins 1",
+      "animated_sticker_pack": true,
+      "stickers": "10"
+    },
+    {
+      "identifier": "funnypumpkins2",
+      "name": "Funny Pumpkins 2",
+      "animated_sticker_pack": true,
+      "stickers": "10"
+    },
+    {
       "identifier": "japaneseshiba1",
       "name": "Japanese Shiba (1)",
       "animated_sticker_pack": true,
