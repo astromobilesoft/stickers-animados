@@ -3,6 +3,24 @@
   "ios_app_store_link": "",
   "sticker_packs": [
     {
+      "identifier": "reaperskull1",
+      "name": "Reaper Skull 1",
+      "animated_sticker_pack": true,
+      "stickers": "12"
+    },
+    {
+      "identifier": "reaperskull2",
+      "name": "Reaper Skull 2",
+      "animated_sticker_pack": true,
+      "stickers": "12"
+    },
+    {
+      "identifier": "reaperskull3",
+      "name": "Reaper Skull 3",
+      "animated_sticker_pack": true,
+      "stickers": "12"
+    },
+    {
       "identifier": "thething1",
       "name": "The Things 1",
       "animated_sticker_pack": true,
