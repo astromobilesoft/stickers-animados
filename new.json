@@ -3,6 +3,24 @@
   "ios_app_store_link": "",
   "sticker_packs": [
     {
+      "identifier": "thething1",
+      "name": "The Things 1",
+      "animated_sticker_pack": true,
+      "stickers": "12"
+    },
+    {
+      "identifier": "thething2",
+      "name": "The Things 2",
+      "animated_sticker_pack": true,
+      "stickers": "12"
+    },
+    {
+      "identifier": "thething3",
+      "name": "The Things 3",
+      "animated_sticker_pack": true,
+      "stickers": "12"
+    },
+    {
       "identifier": "funnypumpkins1",
       "name": "Funny Pumpkins 1",
       "animated_sticker_pack": true,
