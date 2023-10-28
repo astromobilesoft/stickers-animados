@@ -3,6 +3,18 @@
   "ios_app_store_link": "",
   "sticker_packs": [
     {
+      "identifier": "japaneseshiba1",
+      "name": "Japanese Shiba (1)",
+      "animated_sticker_pack": true,
+      "stickers": "12"
+    },
+    {
+      "identifier": "japaneseshiba2",
+      "name": "Japanese Shiba (2)",
+      "animated_sticker_pack": true,
+      "stickers": "12"
+    },
+    {
       "identifier": "kiwibird1",
       "name": "Kiwi Bird (1)",
       "animated_sticker_pack": true,
