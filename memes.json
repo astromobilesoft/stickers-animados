@@ -3,6 +3,18 @@
   "ios_app_store_link": "",
   "sticker_packs": [
     {
+      "identifier": "memepack1",
+      "name": "Meme pack 1",
+      "animated_sticker_pack": true,
+      "stickers": "15"
+    },
+    {
+      "identifier": "memepack2",
+      "name": "Meme pack 2",
+      "animated_sticker_pack": true,
+      "stickers": "15"
+    },
+    {
       "identifier": "pepetgemoji1",
       "name": "Pepe Emoji 1",
       "animated_sticker_pack": true,
