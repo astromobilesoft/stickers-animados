@@ -3,6 +3,18 @@
   "ios_app_store_link": "",
   "sticker_packs": [
     {
+      "identifier": "borzoi1",
+      "name": "Borzoi (1)",
+      "animated_sticker_pack": true,
+      "stickers": "18"
+    },
+    {
+      "identifier": "borzoi2",
+      "name": "Borzoi (2)",
+      "animated_sticker_pack": true,
+      "stickers": "18"
+    },
+    {
       "identifier": "thanksgivinga1",
       "name": "Happy Thanksgiving (2)",
       "animated_sticker_pack": true,
