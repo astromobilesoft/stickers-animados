@@ -3,6 +3,84 @@
   "ios_app_store_link": "",
   "sticker_packs": [
     {
+      "identifier": "xmasdeer1",
+      "name": "Xmas Dear 1",
+      "animated_sticker_pack": true,
+      "stickers": "10"
+    },
+    {
+      "identifier": "xmasdeer2",
+      "name": "Xmas Dear 2",
+      "animated_sticker_pack": true,
+      "stickers": "10"
+    },
+    {
+      "identifier": "xmastree1",
+      "name": "Xmas Tree 1",
+      "animated_sticker_pack": true,
+      "stickers": "11"
+    },
+    {
+      "identifier": "xmastree2",
+      "name": "Xmas Tree 2",
+      "animated_sticker_pack": true,
+      "stickers": "12"
+    },
+    {
+      "identifier": "christmasornaments1",
+      "name": "Christmas Ornaments (1)",
+      "animated_sticker_pack": true,
+      "stickers": "13"
+    },
+    {
+      "identifier": "christmasornaments2",
+      "name": "Christmas Ornaments (2)",
+      "animated_sticker_pack": true,
+      "stickers": "12"
+    },
+    {
+      "identifier": "merrychristmas5",
+      "name": "Merry Christmas (5)",
+      "animated_sticker_pack": true,
+      "stickers": "8"
+    },
+    {
+      "identifier": "merrychristmas1",
+      "name": "Merry Christmas (1)",
+      "animated_sticker_pack": true,
+      "stickers": "12"
+    },
+    {
+      "identifier": "merrychristmas2",
+      "name": "Merry Christmas (2)",
+      "animated_sticker_pack": true,
+      "stickers": "12"
+    },
+    {
+      "identifier": "merrychristmas3",
+      "name": "Merry Christmas (3)",
+      "animated_sticker_pack": true,
+      "stickers": "12"
+    },
+    {
+      "identifier": "merrychristmas4",
+      "name": "Merry Christmas (4)",
+      "animated_sticker_pack": true,
+      "stickers": "12"
+    },
+    {
+      "identifier": "frozensnowman",
+      "name": "Frozen Snowman",
+      "animated_sticker_pack": true,
+      "stickers": "19"
+    },
+    {
+      "identifier": "sweetysanta",
+      "name": "Sweety Santa",
+      "animated_sticker_pack": true,
+      "stickers": "15"
+    },
+    {
       "identifier": "thanksgivinga1",
       "name": "Happy Thanksgiving (2)",
       "animated_sticker_pack": true,
@@ -313,84 +391,6 @@
       "name": "Star Emoji 3",
       "animated_sticker_pack": true,
       "stickers": "12"
-    },
-    {
-      "identifier": "xmasdeer1",
-      "name": "Xmas Dear 1",
-      "animated_sticker_pack": true,
-      "stickers": "10"
-    },
-    {
-      "identifier": "xmasdeer2",
-      "name": "Xmas Dear 2",
-      "animated_sticker_pack": true,
-      "stickers": "10"
-    },
-    {
-      "identifier": "xmastree1",
-      "name": "Xmas Tree 1",
-      "animated_sticker_pack": true,
-      "stickers": "11"
-    },
-    {
-      "identifier": "xmastree2",
-      "name": "Xmas Tree 2",
-      "animated_sticker_pack": true,
-      "stickers": "12"
-    },
-    {
-      "identifier": "christmasornaments1",
-      "name": "Christmas Ornaments (1)",
-      "animated_sticker_pack": true,
-      "stickers": "13"
-    },
-    {
-      "identifier": "christmasornaments2",
-      "name": "Christmas Ornaments (2)",
-      "animated_sticker_pack": true,
-      "stickers": "12"
-    },
-    {
-      "identifier": "merrychristmas5",
-      "name": "Merry Christmas (5)",
-      "animated_sticker_pack": true,
-      "stickers": "8"
-    },
-    {
-      "identifier": "merrychristmas1",
-      "name": "Merry Christmas (1)",
-      "animated_sticker_pack": true,
-      "stickers": "12"
-    },
-    {
-      "identifier": "merrychristmas2",
-      "name": "Merry Christmas (2)",
-      "animated_sticker_pack": true,
-      "stickers": "12"
-    },
-    {
-      "identifier": "merrychristmas3",
-      "name": "Merry Christmas (3)",
-      "animated_sticker_pack": true,
-      "stickers": "12"
-    },
-    {
-      "identifier": "merrychristmas4",
-      "name": "Merry Christmas (4)",
-      "animated_sticker_pack": true,
-      "stickers": "12"
-    },
-    {
-      "identifier": "frozensnowman",
-      "name": "Frozen Snowman",
-      "animated_sticker_pack": true,
-      "stickers": "19"
-    },
-    {
-      "identifier": "sweetysanta",
-      "name": "Sweety Santa",
-      "animated_sticker_pack": true,
-      "stickers": "15"
     },
     {
       "identifier": "4thofjuly",
