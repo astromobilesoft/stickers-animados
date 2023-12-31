@@ -3,6 +3,18 @@
    "ios_app_store_link":"",
    "sticker_packs":[
       {
+         "identifier":"newyear1",
+         "name":"Happy New Year (1)",
+         "animated_sticker_pack":true,
+         "stickers":"6"
+      },
+      {
+         "identifier":"newyear2",
+         "name":"Happy New Year (2)",
+         "animated_sticker_pack":true,
+         "stickers":"8"
+      },
+      {
          "identifier":"anonuevo24a1",
          "name":"Happy New Year 2024 (2)",
          "animated_sticker_pack":true,
@@ -1039,12 +1051,6 @@
          "name":"New Year 2023 (2)",
          "animated_sticker_pack":true,
          "stickers":"14"
-      },
-      {
-         "identifier":"newyear1",
-         "name":"Happy New Year",
-         "animated_sticker_pack":true,
-         "stickers":"6"
       },
       {
          "identifier":"arcticfox1",
