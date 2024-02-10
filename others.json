@@ -1,1230 +1,1242 @@
 {
-  "android_play_store_link":"https://play.google.com/store/apps/details?id=com.astromobile.stickers.animados",
-  "ios_app_store_link": "",
-  "sticker_packs": [
-    {
-      "identifier": "zombie1",
-      "name": "Zombie",
-      "animated_sticker_pack": true,
-      "stickers": "20"
-    },
-    {
-      "identifier": "crazyflower1",
-      "name": "Crazy Flower (1)",
-      "animated_sticker_pack": true,
-      "stickers": "15"
-    },
-    {
-      "identifier": "crazyflower2",
-      "name": "Crazy Flower (2)",
-      "animated_sticker_pack": true,
-      "stickers": "15"
-    },
-    {
-      "identifier": "colorfulmessages1",
-      "name": "Colorful Message (1)",
-      "animated_sticker_pack": true,
-      "stickers": "12"
-    },
-    {
-      "identifier": "colorfulmessages2",
-      "name": "Colorful Message (2)",
-      "animated_sticker_pack": true,
-      "stickers": "12"
-    },
-    {
-      "identifier": "colorfulmessages3",
-      "name": "Colorful Message (3)",
-      "animated_sticker_pack": true,
-      "stickers": "12"
-    },
-    {
-      "identifier": "semenanim1",
-      "name": "Semenim (1)",
-      "animated_sticker_pack": true,
-      "stickers": "15"
-    },
-    {
-      "identifier": "semenanim3",
-      "name": "Semenim (3)",
-      "animated_sticker_pack": true,
-      "stickers": "15"
-    },
-    {
-      "identifier": "threads1",
-      "name": "Threads",
-      "animated_sticker_pack": true,
-      "stickers": "12"
-    },
-    {
-      "identifier": "cards1",
-      "name": "Cards 1",
-      "animated_sticker_pack": true,
-      "stickers": "15"
-    },
-    {
-      "identifier": "flork5",
-      "name": "Flork 5",
-      "animated_sticker_pack": true,
-      "stickers": "13"
-    },
-    {
-      "identifier": "chamomile1",
-      "name": "Chamomile 1",
-      "animated_sticker_pack": true,
-      "stickers": "12"
-    },
-    {
-      "identifier": "chamomile2",
-      "name": "Chamomile 2",
-      "animated_sticker_pack": true,
-      "stickers": "12"
-    },
-    {
-      "identifier": "chamomile3",
-      "name": "Chamomile 3",
-      "animated_sticker_pack": true,
-      "stickers": "12"
-    },
-    {
-      "identifier": "clown1",
-      "name": "Clown Emoji 1",
-      "animated_sticker_pack": true,
-      "stickers": "15"
-    },
-    {
-      "identifier": "clown2",
-      "name": "Clown Emoji 2",
-      "animated_sticker_pack": true,
-      "stickers": "15"
-    },
-    {
-      "identifier": "ghostbugi1",
-      "name": "Ghost Bugi (1)",
-      "animated_sticker_pack": true,
-      "stickers": "12"
-    },
-    {
-      "identifier": "ghostbugi2",
-      "name": "Ghost Bugi (2)",
-      "animated_sticker_pack": true,
-      "stickers": "12"
-    },
-    {
-      "identifier": "messenger1",
-      "name": "Messenger",
-      "animated_sticker_pack": true,
-      "stickers": "16"
-    },
-    {
-      "identifier": "area51a",
-      "name": "Area 51 (1)",
-      "animated_sticker_pack": true,
-      "stickers": "10"
-    },
-    {
-      "identifier": "area51b",
-      "name": "Area 51 (2)",
-      "animated_sticker_pack": true,
-      "stickers": "10"
-    },
-    {
-      "identifier": "strangerthings4",
-      "name": "Stranger Things (4)",
-      "animated_sticker_pack": true,
-      "stickers": "11"
-    },
-    {
-      "identifier": "strangerthings5",
-      "name": "Stranger Things (5)",
-      "animated_sticker_pack": true,
-      "stickers": "10"
-    },
-    {
-      "identifier": "emotionscookie1",
-      "name": "Emotions Cookie 1",
-      "animated_sticker_pack": true,
-      "stickers": "11"
-    },
-    {
-      "identifier": "emotionscookie2",
-      "name": "Emotions Cookie 2",
-      "animated_sticker_pack": true,
-      "stickers": "10"
-    },
-    {
-      "identifier": "sweetcandy1",
-      "name": "Sweet Candy 1",
-      "animated_sticker_pack": true,
-      "stickers": "12"
-    },
-    {
-      "identifier": "sweetcandy2",
-      "name": "Sweet Candy 2",
-      "animated_sticker_pack": true,
-      "stickers": "12"
-    },
-    {
-      "identifier": "mushroom_stepa1",
-      "name": "Mushroom 1",
-      "animated_sticker_pack": true,
-      "stickers": "12"
-    },
-    {
-      "identifier": "mushroom_stepa2",
-      "name": "Mushroom 2",
-      "animated_sticker_pack": true,
-      "stickers": "12"
-    },
-    {
-      "identifier": "mushroom_stepa3",
-      "name": "Mushroom 3",
-      "animated_sticker_pack": true,
-      "stickers": "12"
-    },
-    {
-      "identifier": "mushroom_stepa4",
-      "name": "Mushroom 4",
-      "animated_sticker_pack": true,
-      "stickers": "12"
-    },
-    {
-      "identifier": "days1",
-      "name": "Days (1)",
-      "animated_sticker_pack": true,
-      "stickers": "7"
-    },
-    {
-      "identifier": "muchasgracias1",
-      "name": "Muchas Gracias (1)",
-      "animated_sticker_pack": true,
-      "stickers": "13"
-    },
-    {
-      "identifier": "muchasgracias2",
-      "name": "Muchas Gracias (2)",
-      "animated_sticker_pack": true,
-      "stickers": "13"
-    },
-    {
-      "identifier": "muchasgracias3",
-      "name": "Muchas Gracias (3)",
-      "animated_sticker_pack": true,
-      "stickers": "13"
-    },
-    {
-      "identifier": "frasesanimales1",
-      "name": "Frases Animales (1)",
-      "animated_sticker_pack": true,
-      "stickers": "8"
-    },
-    {
-      "identifier": "taco1",
-      "name": "Taco (1)",
-      "animated_sticker_pack": true,
-      "stickers": "14"
-    },
-    {
-      "identifier": "taco2",
-      "name": "Taco (2)",
-      "animated_sticker_pack": true,
-      "stickers": "14"
-    },
-    {
-      "identifier": "frasesmex1",
-      "name": "Frases Mex (1)",
-      "animated_sticker_pack": true,
-      "stickers": "15"
-    },
-    {
-      "identifier": "frasesmex2",
-      "name": "Frases Mex (2)",
-      "animated_sticker_pack": true,
-      "stickers": "15"
-    },
-    {
-      "identifier": "frasesmex3",
-      "name": "Frases Mex (3)",
-      "animated_sticker_pack": true,
-      "stickers": "15"
-    },
-    {
-      "identifier": "frasesmex4",
-      "name": "Frases Mex (4)",
-      "animated_sticker_pack": true,
-      "stickers": "15"
-    },
-    {
-      "identifier": "frasesmex5",
-      "name": "Frases Mex (5)",
-      "animated_sticker_pack": true,
-      "stickers": "15"
-    },
-    {
-      "identifier": "frasesmex6",
-      "name": "Frases Mex (6)",
-      "animated_sticker_pack": true,
-      "stickers": "15"
-    },
-    {
-      "identifier": "frasesmex7",
-      "name": "Frases Mex (7)",
-      "animated_sticker_pack": true,
-      "stickers": "15"
-    },
-    {
-      "identifier": "frasesmex8",
-      "name": "Frases Mex (8)",
-      "animated_sticker_pack": true,
-      "stickers": "15"
-    },
-    {
-      "identifier": "frasesmex9",
-      "name": "Frases Mex (9)",
-      "animated_sticker_pack": true,
-      "stickers": "11"
-    },
-    {
-      "identifier": "yokochan1",
-      "name": "Yoko Chan (1)",
-      "animated_sticker_pack": true,
-      "stickers": "10"
-    },
-    {
-      "identifier": "yokochan2",
-      "name": "Yoko Chan (2)",
-      "animated_sticker_pack": true,
-      "stickers": "10"
-    },
-    {
-      "identifier": "theowlhouse",
-      "name": "The Owl House",
-      "animated_sticker_pack": true,
-      "stickers": "11"
-    },
-    {
-      "identifier": "houseofthedragon1",
-      "name": "House Dragon 1",
-      "animated_sticker_pack": true,
-      "stickers": "12"
-    },
-    {
-      "identifier": "heartflag1",
-      "name": "Heart flag 1",
-      "animated_sticker_pack": true,
-      "stickers": "10"
-    },
-    {
-      "identifier": "heartflag2",
-      "name": "Heart flag 2",
-      "animated_sticker_pack": true,
-      "stickers": "10"
-    },
-    {
-      "identifier": "strangerthings2",
-      "name": "Stranger Things (2)",
-      "animated_sticker_pack": true,
-      "stickers": "12"
-    },
-    {
-      "identifier": "strangerthings3",
-      "name": "Stranger Things (3)",
-      "animated_sticker_pack": true,
-      "stickers": "12"
-    },
-    {
-      "identifier": "what1",
-      "name": "What (1)",
-      "animated_sticker_pack": true,
-      "stickers": "12"
-    },
-    {
-      "identifier": "what2",
-      "name": "What (2)",
-      "animated_sticker_pack": true,
-      "stickers": "12"
-    },
-    {
-      "identifier": "vitaminparty",
-      "name": "Vitamin Party",
-      "animated_sticker_pack": true,
-      "stickers": "20"
-    },
-    {
-      "identifier": "deformitos1",
-      "name": "Deformitos 1",
-      "animated_sticker_pack": true,
-      "stickers": "12"
-    },
-    {
-      "identifier": "deformitos2",
-      "name": "Deformitos 2",
-      "animated_sticker_pack": true,
-      "stickers": "12"
-    },
-    {
-      "identifier": "deformitos3",
-      "name": "Deformitos 3",
-      "animated_sticker_pack": true,
-      "stickers": "12"
-    },
-    {
-      "identifier": "deformitos4",
-      "name": "Deformitos 4",
-      "animated_sticker_pack": true,
-      "stickers": "12"
-    },
-    {
-      "identifier": "flork3",
-      "name": "Flork 3",
-      "animated_sticker_pack": true,
-      "stickers": "12"
-    },
-    {
-      "identifier": "flork4",
-      "name": "Flork 4",
-      "animated_sticker_pack": true,
-      "stickers": "12"
-    },
-    {
-      "identifier": "goodnight3",
-      "name": "Good Night 3",
-      "animated_sticker_pack": true,
-      "stickers": "12"
-    },
-    {
-      "identifier": "goodnight4",
-      "name": "Good Night 4",
-      "animated_sticker_pack": true,
-      "stickers": "15"
-    },
-    {
-      "identifier": "sweetdreams1",
-      "name": "Sweet Dreams",
-      "animated_sticker_pack": true,
-      "stickers": "15"
-    },
-    {
-      "identifier": "nba3",
-      "name": "NBA (3)",
-      "animated_sticker_pack": true,
-      "stickers": "23"
-    },
-    {
-      "identifier": "soccerfans1",
-      "name": "Soccer Fans 1",
-      "animated_sticker_pack": true,
-      "stickers": "12"
-    },
-    {
-      "identifier": "goodjob1",
-      "name": "Good Job 1",
-      "animated_sticker_pack": true,
-      "stickers": "15"
-    },
-    {
-      "identifier": "goodjob2",
-      "name": "Good Job 2",
-      "animated_sticker_pack": true,
-      "stickers": "15"
-    },
-    {
-      "identifier": "goodjob3",
-      "name": "Good Job 3",
-      "animated_sticker_pack": true,
-      "stickers": "12"
-    },
-    {
-      "identifier": "goodjob4",
-      "name": "Good Job 4",
-      "animated_sticker_pack": true,
-      "stickers": "12"
-    },
-    {
-      "identifier": "soccer2",
-      "name": "Soccer 2",
-      "animated_sticker_pack": true,
-      "stickers": "14"
-    },
-    {
-      "identifier": "letters2",
-      "name": "Letters 2",
-      "animated_sticker_pack": true,
-      "stickers": "15"
-    },
-    {
-      "identifier": "letters1",
-      "name": "Letters",
-      "animated_sticker_pack": true,
-      "stickers": "20"
-    },
-    {
-      "identifier": "liveflowers",
-      "name": "Live Flowers",
-      "animated_sticker_pack": true,
-      "stickers": "20"
-    },
-    {
-      "identifier": "flork",
-      "name": "Flork 1",
-      "animated_sticker_pack": true,
-      "stickers": "17"
-    },
-    {
-      "identifier": "acdc1",
-      "name": "ACDC",
-      "animated_sticker_pack": true,
-      "stickers": "10"
-    },
-    {
-      "identifier": "metallica1",
-      "name": "Metallica",
-      "animated_sticker_pack": true,
-      "stickers": "15"
-    },
-    {
-      "identifier": "rollingstone1",
-      "name": "Rolling Stone",
-      "animated_sticker_pack": true,
-      "stickers": "11"
-    },
-    {
-      "identifier": "ukrainea1",
-      "name": "Peace Ukraine",
-      "animated_sticker_pack": true,
-      "stickers": "12"
-    },
-    {
-      "identifier": "superbowl1",
-      "name": "Super Bowl (1)",
-      "animated_sticker_pack": true,
-      "stickers": "12"
-    },
-    {
-      "identifier": "superbowl2",
-      "name": "Super Bowl (2)",
-      "animated_sticker_pack": true,
-      "stickers": "12"
-    },
-    {
-      "identifier": "bengals",
-      "name": "Bengals",
-      "animated_sticker_pack": true,
-      "stickers": "12"
-    },
-    {
-      "identifier": "rams",
-      "name": "Rams",
-      "animated_sticker_pack": true,
-      "stickers": "15"
-    },
-    {
-      "identifier": "bluegom",
-      "name": "Blue Gom",
-      "animated_sticker_pack": true,
-      "stickers": "9"
-    },
-    {
-      "identifier": "bt21a",
-      "name": "BT 21 1",
-      "animated_sticker_pack": true,
-      "stickers": "12"
-    },
-    {
-      "identifier": "bt21b",
-      "name": "BT 21 2",
-      "animated_sticker_pack": true,
-      "stickers": "12"
-    },
-    {
-      "identifier": "littleyellow",
-      "name": "Little Yellow",
-      "animated_sticker_pack": true,
-      "stickers": "8"
-    },
-    {
-      "identifier": "brawlstars3",
-      "name": "Brawl Stars 3",
-      "animated_sticker_pack": true,
-      "stickers": "16"
-    },
-    {
-      "identifier": "squidgame1",
-      "name": "Squid game 3",
-      "animated_sticker_pack": true,
-      "stickers": "17"
-    },
-    {
-      "identifier": "words2",
-      "name": "Words 2",
-      "animated_sticker_pack": true,
-      "stickers": "12"
-    },
-    {
-      "identifier": "eljuegodelcalamar1",
-      "name": "Squid Game (1)",
-      "animated_sticker_pack": true,
-      "stickers": "13"
-    },
-    {
-      "identifier": "eljuegodelcalamar2",
-      "name": "Squid Game (2)",
-      "animated_sticker_pack": true,
-      "stickers": "10"
-    },
-    {
-      "identifier": "phrases1",
-      "name": "Phrases (1)",
-      "animated_sticker_pack": true,
-      "stickers": "14"
-    },
-    {
-      "identifier": "greetings5",
-      "name": "Greetings (5)",
-      "animated_sticker_pack": true,
-      "stickers": "6"
-    },
-    {
-      "identifier": "twintowersa1",
-      "name": "Twin Towers",
-      "animated_sticker_pack": true,
-      "stickers": "12"
-    },
-    {
-      "identifier": "mexico1",
-      "name": "Mexico (1)",
-      "animated_sticker_pack": true,
-      "stickers": "14"
-    },
-    {
-      "identifier": "kids1",
-      "name": "Kids",
-      "animated_sticker_pack": true,
-      "stickers": "10"
-    },
-    {
-      "identifier": "buenosdias1",
-      "name": "Buenos Dias (1)",
-      "animated_sticker_pack": true,
-      "stickers": "7"
-    },
-    {
-      "identifier": "nbabrooklyn",
-      "name": "NBA Brooklyn",
-      "animated_sticker_pack": true,
-      "stickers": "9"
-    },
-    {
-      "identifier": "goodnight1",
-      "name": "Good Night (1)",
-      "animated_sticker_pack": true,
-      "stickers": "11"
-    },
-    {
-      "identifier": "goodnight2",
-      "name": "Good Night (2)",
-      "animated_sticker_pack": true,
-      "stickers": "11"
-    },
-    {
-      "identifier": "goodday1",
-      "name": "Good Day (1)",
-      "animated_sticker_pack": true,
-      "stickers": "11"
-    },
-    {
-      "identifier": "wordsanimated1",
-      "name": "Words Animated (1)",
-      "animated_sticker_pack": false,
-      "stickers": "13"
-    },
-    {
-      "identifier": "wordsanimated2",
-      "name": "Words Animated (2)",
-      "animated_sticker_pack": false,
-      "stickers": "12"
-    },
-    {
-      "identifier": "neonmessage1",
-      "name": "Neon Message ",
-      "animated_sticker_pack": true,
-      "stickers": "23"
-    },
-    {
-      "identifier": "mrfly",
-      "name": "Mr Fly",
-      "animated_sticker_pack": true,
-      "stickers": "15"
-    },
-    {
-      "identifier": "mrass1",
-      "name": "Mr Ass (1)",
-      "animated_sticker_pack": true,
-      "stickers": "12"
-    },
-    {
-      "identifier": "mrass2",
-      "name": "Mr Ass (2)",
-      "animated_sticker_pack": true,
-      "stickers": "13"
-    },
-    {
-      "identifier": "magicmandrake",
-      "name": "Magic Mandrake",
-      "animated_sticker_pack": true,
-      "stickers": "14"
-    },
-    {
-      "identifier": "vaccinated1",
-      "name": "Vaccinated 1",
-      "animated_sticker_pack": true,
-      "stickers": "12"
-    },
-    {
-      "identifier": "vaccinated2",
-      "name": "Vaccinated 2",
-      "animated_sticker_pack": true,
-      "stickers": "12"
-    },
-    {
-      "identifier": "vaccinated3",
-      "name": "Vaccinated 3",
-      "animated_sticker_pack": true,
-      "stickers": "12"
-    },
-    {
-      "identifier": "vaccinated4",
-      "name": "Vaccinated 4",
-      "animated_sticker_pack": true,
-      "stickers": "12"
-    },
-    {
-      "identifier": "vaccinated5",
-      "name": "Vaccinated 5",
-      "animated_sticker_pack": true,
-      "stickers": "12"
-    },
-    {
-      "identifier": "vaccinated6",
-      "name": "Vaccinated 6",
-      "animated_sticker_pack": true,
-      "stickers": "12"
-    },
-    {
-      "identifier": "playmobil5",
-      "name": "Playmobil 5",
-      "animated_sticker_pack": true,
-      "stickers": "12"
-    },
-    {
-      "identifier": "usag1",
-      "name": "Usag 1",
-      "animated_sticker_pack": true,
-      "stickers": "12"
-    },
-    {
-      "identifier": "usag2",
-      "name": "Usag 2",
-      "animated_sticker_pack": true,
-      "stickers": "12"
-    },
-    {
-      "identifier": "angels",
-      "name": "Angels",
-      "animated_sticker_pack": true,
-      "stickers": "16"
-    },
-    {
-      "identifier": "playmobil3",
-      "name": "Playmobil 3",
-      "animated_sticker_pack": true,
-      "stickers": "12"
-    },
-    {
-      "identifier": "playmobil4",
-      "name": "Playmobil 4",
-      "animated_sticker_pack": true,
-      "stickers": "12"
-    },
-    {
-      "identifier": "playmobil1",
-      "name": "Playmobil 1",
-      "animated_sticker_pack": true,
-      "stickers": "12"
-    },
-    {
-      "identifier": "playmobil2",
-      "name": "Playmobil 2",
-      "animated_sticker_pack": true,
-      "stickers": "12"
-    },
-    {
-      "identifier": "taco",
-      "name": "Taco",
-      "animated_sticker_pack": true,
-      "stickers": "15"
-    },
-    {
-      "identifier": "dias",
-      "name": "Dias",
-      "animated_sticker_pack": true,
-      "stickers": "7"
-    },
-    {
-      "identifier": "socktoys",
-      "name": "Sock Toys",
-      "animated_sticker_pack": true,
-      "stickers": "20"
-    },
-    {
-      "identifier": "ladycat",
-      "name": "Lady Cat",
-      "animated_sticker_pack": true,
-      "stickers": "16"
-    },
-    {
-      "identifier": "positivemessages1",
-      "name": "Positive Messages (1)",
-      "animated_sticker_pack": true,
-      "stickers": "11"
-    },
-    {
-      "identifier": "happybirthday1",
-      "name": "Happy Birthday (1)",
-      "animated_sticker_pack": true,
-      "stickers": "12"
-    },
-    {
-      "identifier": "happybirthday2",
-      "name": "Happy Birthday (2)",
-      "animated_sticker_pack": true,
-      "stickers": "12"
-    },
-    {
-      "identifier": "wordup1",
-      "name": "Word Up (1)",
-      "animated_sticker_pack": true,
-      "stickers": "12"
-    },
-    {
-      "identifier": "wordup2",
-      "name": "Word Up (2)",
-      "animated_sticker_pack": true,
-      "stickers": "11"
-    },
-    {
-      "identifier": "cutiebeautybaby",
-      "name": "Cutie Beauty Baby",
-      "animated_sticker_pack": true,
-      "stickers": "15"
-    },
-    {
-      "identifier": "furry",
-      "name": "Furry",
-      "animated_sticker_pack": true,
-      "stickers": "20"
-    },
-    {
-      "identifier": "pride",
-      "name": "Pride",
-      "animated_sticker_pack": true,
-      "stickers": "13"
-    },
-    {
-      "identifier": "greetings3",
-      "name": "Greetings (3)",
-      "animated_sticker_pack": true,
-      "stickers": "14"
-    },
-    {
-      "identifier": "greetings4",
-      "name": "Greetings (4)",
-      "animated_sticker_pack": true,
-      "stickers": "14"
-    },
-    {
-      "identifier": "friends1",
-      "name": "Friends (1)",
-      "animated_sticker_pack": true,
-      "stickers": "7"
-    },
-    {
-      "identifier": "friendschandler",
-      "name": "Friends Chandler",
-      "animated_sticker_pack": true,
-      "stickers": "14"
-    },
-    {
-      "identifier": "friendsjoey",
-      "name": "Friends Joey",
-      "animated_sticker_pack": true,
-      "stickers": "14"
-    },
-    {
-      "identifier": "friendsmonica",
-      "name": "Friends Monica",
-      "animated_sticker_pack": true,
-      "stickers": "14"
-    },
-    {
-      "identifier": "friendsphoebe",
-      "name": "Friends Phoebe",
-      "animated_sticker_pack": true,
-      "stickers": "14"
-    },
-    {
-      "identifier": "friendsrachel",
-      "name": "Friends Rachel",
-      "animated_sticker_pack": true,
-      "stickers": "14"
-    },
-    {
-      "identifier": "friendsross",
-      "name": "Friends Ross",
-      "animated_sticker_pack": true,
-      "stickers": "14"
-    },
-    {
-      "identifier": "mandalorian1",
-      "name": "The Mandalorian (1)",
-      "animated_sticker_pack": true,
-      "stickers": "10"
-    },
-    {
-      "identifier": "mandalorian2",
-      "name": "The Mandalorian (2)",
-      "animated_sticker_pack": true,
-      "stickers": "10"
-    },
-    {
-      "identifier": "wandavision1",
-      "name": "Wanda Vision (1)",
-      "animated_sticker_pack": true,
-      "stickers": "11"
-    },
-    {
-      "identifier": "wandavision2",
-      "name": "Wanda Vision (2)",
-      "animated_sticker_pack": true,
-      "stickers": "10"
-    },
-    {
-      "identifier": "text1",
-      "name": "Text1",
-      "animated_sticker_pack": true,
-      "stickers": "10"
-    },
-    {
-      "identifier": "nba1",
-      "name": "Nba Teams (1)",
-      "animated_sticker_pack": true,
-      "stickers": "15"
-    },
-    {
-      "identifier": "nba2",
-      "name": "Nba Teams (2)",
-      "animated_sticker_pack": true,
-      "stickers": "15"
-    },
-    {
-      "identifier": "greetings2",
-      "name": "Greetings (2)",
-      "animated_sticker_pack": true,
-      "stickers": "11"
-    },
-    {
-      "identifier": "greetings1",
-      "name": "Greetings (1)",
-      "animated_sticker_pack": true,
-      "stickers": "15"
-    },
-    {
-      "identifier": "fifaa1",
-      "name": "Fifa Animated 1",
-      "animated_sticker_pack": true,
-      "stickers": "11"
-    },
-    {
-      "identifier": "fifaa2",
-      "name": "Fifa Animated 2",
-      "animated_sticker_pack": true,
-      "stickers": "11"
-    },
-    {
-      "identifier": "fifaa3",
-      "name": "Fifa Animated 3",
-      "animated_sticker_pack": true,
-      "stickers": "11"
-    },
-    {
-      "identifier": "marshmello1",
-      "name": "Marshmello 1",
-      "animated_sticker_pack": true,
-      "stickers": "11"
-    },
-    {
-      "identifier": "marshmello2",
-      "name": "Marshmello 2",
-      "animated_sticker_pack": true,
-      "stickers": "11"
-    },
-    {
-      "identifier": "drinks1",
-      "name": "Drinks 1",
-      "animated_sticker_pack": true,
-      "stickers": "13"
-    },
-    {
-      "identifier": "drinks2",
-      "name": "Drinks 2",
-      "animated_sticker_pack": true,
-      "stickers": "12"
-    },
-    {
-      "identifier": "theoffice3",
-      "name": "The Office 3",
-      "animated_sticker_pack": true,
-      "stickers": "12"
-    },
-    {
-      "identifier": "cockroach",
-      "name": "Cockroach",
-      "animated_sticker_pack": true,
-      "stickers": "20"
-    },
-    {
-      "identifier": "lemon1",
-      "name": "Lemon 1",
-      "animated_sticker_pack": true,
-      "stickers": "12"
-    },
-    {
-      "identifier": "lemon2",
-      "name": "Lemon 2",
-      "animated_sticker_pack": true,
-      "stickers": "12"
-    },
-    {
-      "identifier": "judyalvarez",
-      "name": "Judy Alvarez",
-      "animated_sticker_pack": true,
-      "stickers": "20"
-    },
-    {
-      "identifier": "urban1",
-      "name": "Urban 1",
-      "animated_sticker_pack": true,
-      "stickers": "15"
-    },
-    {
-      "identifier": "urban2",
-      "name": "Urban 2",
-      "animated_sticker_pack": true,
-      "stickers": "15"
-    },
-    {
-      "identifier": "words1",
-      "name": "words 1",
-      "animated_sticker_pack": true,
-      "stickers": "20"
-    },
-    {
-      "identifier": "lucy",
-      "name": "Lucy",
-      "animated_sticker_pack": true,
-      "stickers": "15"
-    },
-    {
-      "identifier": "pinkfly",
-      "name": "Pink Fly",
-      "animated_sticker_pack": true,
-      "stickers": "25"
-    },
-    {
-      "identifier": "wormies",
-      "name": "Wormies",
-      "animated_sticker_pack": true,
-      "stickers": "25"
-    },
-    {
-      "identifier": "egg",
-      "name": "Egg",
-      "animated_sticker_pack": true,
-      "stickers": "20"
-    },
-    {
-      "identifier": "messibarca1",
-      "name": "Messi Barcelona",
-      "animated_sticker_pack": true,
-      "stickers": "12"
-    },
-    {
-      "identifier": "expression1",
-      "name": "Expression 1",
-      "animated_sticker_pack": true,
-      "stickers": "15"
-    },
-    {
-      "identifier": "pack1",
-      "name": "Pack 1",
-      "animated_sticker_pack": true,
-      "stickers": "15"
-    },
-    {
-      "identifier": "pack2",
-      "name": "Pack 2",
-      "animated_sticker_pack": true,
-      "stickers": "15"
-    },
-    {
-      "identifier": "pack3",
-      "name": "Pack 3",
-      "animated_sticker_pack": true,
-      "stickers": "15"
-    },
-    {
-      "identifier": "pack4",
-      "name": "Pack 4",
-      "animated_sticker_pack": true,
-      "stickers": "15"
-    },
-    {
-      "identifier": "pack5",
-      "name": "Pack 5",
-      "animated_sticker_pack": true,
-      "stickers": "15"
-    },
-    {
-      "identifier": "pack6",
-      "name": "Pack 6",
-      "animated_sticker_pack": true,
-      "stickers": "15"
-    },
-    {
-      "identifier": "pack7",
-      "name": "Pack 7",
-      "animated_sticker_pack": true,
-      "stickers": "15"
-    },
-    {
-      "identifier": "pack8",
-      "name": "Pack 8",
-      "animated_sticker_pack": true,
-      "stickers": "15"
-    },
-    {
-      "identifier": "pack9",
-      "name": "Pack 9",
-      "animated_sticker_pack": true,
-      "stickers": "15"
-    },
-    {
-      "identifier": "pack10",
-      "name": "Pack 10",
-      "animated_sticker_pack": true,
-      "stickers": "15"
-    },
-    {
-      "identifier": "pack11",
-      "name": "Pack 11",
-      "animated_sticker_pack": true,
-      "stickers": "23"
-    },
-    {
-      "identifier": "pack12",
-      "name": "Pack 12",
-      "animated_sticker_pack": true,
-      "stickers": "25"
-    },
-    {
-      "identifier": "pack13",
-      "name": "Pack 13",
-      "animated_sticker_pack": true,
-      "stickers": "30"
-    },
-    {
-      "identifier": "flags3",
-      "name": "Flags 3",
-      "animated_sticker_pack": true,
-      "stickers": "14"
-    },
-    {
-      "identifier": "flags4",
-      "name": "Flags 4",
-      "animated_sticker_pack": true,
-      "stickers": "13"
-    },
-    {
-      "identifier": "flags1",
-      "name": "Flags 1",
-      "animated_sticker_pack": true,
-      "stickers": "13"
-    },
-    {
-      "identifier": "flags2",
-      "name": "Flags 2",
-      "animated_sticker_pack": true,
-      "stickers": "14"
-    },
-    {
-      "identifier": "soccer1",
-      "name": "Soccer 1",
-      "animated_sticker_pack": true,
-      "stickers": "12"
-    },
-    {
-      "identifier": "brazil1",
-      "name": "Brazil",
-      "animated_sticker_pack": true,
-      "stickers": "11"
-    },
-    {
-      "identifier": "togheterwhileapart",
-      "name": "Togheter While Apart",
-      "animated_sticker_pack": true,
-      "stickers": "21"
-    },
-    {
-      "identifier": "goal1",
-      "name": "Goal 1",
-      "animated_sticker_pack": true,
-      "stickers": "10"
-    },
-    {
-      "identifier": "others4",
-      "name": "Others 4",
-      "animated_sticker_pack": true,
-      "stickers": "11"
-    },
-    {
-      "identifier": "others3",
-      "name": "Others 3",
-      "animated_sticker_pack": true,
-      "stickers": "9"
-    },
-    {
-      "identifier": "others2",
-      "name": "Others 2",
-      "animated_sticker_pack": true,
-      "stickers": "10"
-    },
-    {
-      "identifier": "words",
-      "name": "Words",
-      "animated_sticker_pack": true,
-      "stickers": "19"
-    },
-    {
-      "identifier": "square",
-      "name": "Square",
-      "animated_sticker_pack": true,
-      "stickers": "11"
-    },
-    {
-      "identifier": "ok",
-      "name": "Pack Ok",
-      "animated_sticker_pack": true,
-      "stickers": "17"
-    }
-  ]
+   "android_play_store_link":"https://play.google.com/store/apps/details?id=com.astromobile.stickers.animados",
+   "ios_app_store_link":"",
+   "sticker_packs":[
+      {
+         "identifier":"sneakerchuck1",
+         "name":"Happy Sneaker Chuck (1)",
+         "animated_sticker_pack":true,
+         "stickers":"10"
+      },
+      {
+         "identifier":"sneakerchuck2",
+         "name":"Happy Sneaker Chuck (2)",
+         "animated_sticker_pack":true,
+         "stickers":"10"
+      },
+      {
+         "identifier":"zombie1",
+         "name":"Zombie",
+         "animated_sticker_pack":true,
+         "stickers":"20"
+      },
+      {
+         "identifier":"crazyflower1",
+         "name":"Crazy Flower (1)",
+         "animated_sticker_pack":true,
+         "stickers":"15"
+      },
+      {
+         "identifier":"crazyflower2",
+         "name":"Crazy Flower (2)",
+         "animated_sticker_pack":true,
+         "stickers":"15"
+      },
+      {
+         "identifier":"colorfulmessages1",
+         "name":"Colorful Message (1)",
+         "animated_sticker_pack":true,
+         "stickers":"12"
+      },
+      {
+         "identifier":"colorfulmessages2",
+         "name":"Colorful Message (2)",
+         "animated_sticker_pack":true,
+         "stickers":"12"
+      },
+      {
+         "identifier":"colorfulmessages3",
+         "name":"Colorful Message (3)",
+         "animated_sticker_pack":true,
+         "stickers":"12"
+      },
+      {
+         "identifier":"semenanim1",
+         "name":"Semenim (1)",
+         "animated_sticker_pack":true,
+         "stickers":"15"
+      },
+      {
+         "identifier":"semenanim3",
+         "name":"Semenim (3)",
+         "animated_sticker_pack":true,
+         "stickers":"15"
+      },
+      {
+         "identifier":"threads1",
+         "name":"Threads",
+         "animated_sticker_pack":true,
+         "stickers":"12"
+      },
+      {
+         "identifier":"cards1",
+         "name":"Cards 1",
+         "animated_sticker_pack":true,
+         "stickers":"15"
+      },
+      {
+         "identifier":"flork5",
+         "name":"Flork 5",
+         "animated_sticker_pack":true,
+         "stickers":"13"
+      },
+      {
+         "identifier":"chamomile1",
+         "name":"Chamomile 1",
+         "animated_sticker_pack":true,
+         "stickers":"12"
+      },
+      {
+         "identifier":"chamomile2",
+         "name":"Chamomile 2",
+         "animated_sticker_pack":true,
+         "stickers":"12"
+      },
+      {
+         "identifier":"chamomile3",
+         "name":"Chamomile 3",
+         "animated_sticker_pack":true,
+         "stickers":"12"
+      },
+      {
+         "identifier":"clown1",
+         "name":"Clown Emoji 1",
+         "animated_sticker_pack":true,
+         "stickers":"15"
+      },
+      {
+         "identifier":"clown2",
+         "name":"Clown Emoji 2",
+         "animated_sticker_pack":true,
+         "stickers":"15"
+      },
+      {
+         "identifier":"ghostbugi1",
+         "name":"Ghost Bugi (1)",
+         "animated_sticker_pack":true,
+         "stickers":"12"
+      },
+      {
+         "identifier":"ghostbugi2",
+         "name":"Ghost Bugi (2)",
+         "animated_sticker_pack":true,
+         "stickers":"12"
+      },
+      {
+         "identifier":"messenger1",
+         "name":"Messenger",
+         "animated_sticker_pack":true,
+         "stickers":"16"
+      },
+      {
+         "identifier":"area51a",
+         "name":"Area 51 (1)",
+         "animated_sticker_pack":true,
+         "stickers":"10"
+      },
+      {
+         "identifier":"area51b",
+         "name":"Area 51 (2)",
+         "animated_sticker_pack":true,
+         "stickers":"10"
+      },
+      {
+         "identifier":"strangerthings4",
+         "name":"Stranger Things (4)",
+         "animated_sticker_pack":true,
+         "stickers":"11"
+      },
+      {
+         "identifier":"strangerthings5",
+         "name":"Stranger Things (5)",
+         "animated_sticker_pack":true,
+         "stickers":"10"
+      },
+      {
+         "identifier":"emotionscookie1",
+         "name":"Emotions Cookie 1",
+         "animated_sticker_pack":true,
+         "stickers":"11"
+      },
+      {
+         "identifier":"emotionscookie2",
+         "name":"Emotions Cookie 2",
+         "animated_sticker_pack":true,
+         "stickers":"10"
+      },
+      {
+         "identifier":"sweetcandy1",
+         "name":"Sweet Candy 1",
+         "animated_sticker_pack":true,
+         "stickers":"12"
+      },
+      {
+         "identifier":"sweetcandy2",
+         "name":"Sweet Candy 2",
+         "animated_sticker_pack":true,
+         "stickers":"12"
+      },
+      {
+         "identifier":"mushroom_stepa1",
+         "name":"Mushroom 1",
+         "animated_sticker_pack":true,
+         "stickers":"12"
+      },
+      {
+         "identifier":"mushroom_stepa2",
+         "name":"Mushroom 2",
+         "animated_sticker_pack":true,
+         "stickers":"12"
+      },
+      {
+         "identifier":"mushroom_stepa3",
+         "name":"Mushroom 3",
+         "animated_sticker_pack":true,
+         "stickers":"12"
+      },
+      {
+         "identifier":"mushroom_stepa4",
+         "name":"Mushroom 4",
+         "animated_sticker_pack":true,
+         "stickers":"12"
+      },
+      {
+         "identifier":"days1",
+         "name":"Days (1)",
+         "animated_sticker_pack":true,
+         "stickers":"7"
+      },
+      {
+         "identifier":"muchasgracias1",
+         "name":"Muchas Gracias (1)",
+         "animated_sticker_pack":true,
+         "stickers":"13"
+      },
+      {
+         "identifier":"muchasgracias2",
+         "name":"Muchas Gracias (2)",
+         "animated_sticker_pack":true,
+         "stickers":"13"
+      },
+      {
+         "identifier":"muchasgracias3",
+         "name":"Muchas Gracias (3)",
+         "animated_sticker_pack":true,
+         "stickers":"13"
+      },
+      {
+         "identifier":"frasesanimales1",
+         "name":"Frases Animales (1)",
+         "animated_sticker_pack":true,
+         "stickers":"8"
+      },
+      {
+         "identifier":"taco1",
+         "name":"Taco (1)",
+         "animated_sticker_pack":true,
+         "stickers":"14"
+      },
+      {
+         "identifier":"taco2",
+         "name":"Taco (2)",
+         "animated_sticker_pack":true,
+         "stickers":"14"
+      },
+      {
+         "identifier":"frasesmex1",
+         "name":"Frases Mex (1)",
+         "animated_sticker_pack":true,
+         "stickers":"15"
+      },
+      {
+         "identifier":"frasesmex2",
+         "name":"Frases Mex (2)",
+         "animated_sticker_pack":true,
+         "stickers":"15"
+      },
+      {
+         "identifier":"frasesmex3",
+         "name":"Frases Mex (3)",
+         "animated_sticker_pack":true,
+         "stickers":"15"
+      },
+      {
+         "identifier":"frasesmex4",
+         "name":"Frases Mex (4)",
+         "animated_sticker_pack":true,
+         "stickers":"15"
+      },
+      {
+         "identifier":"frasesmex5",
+         "name":"Frases Mex (5)",
+         "animated_sticker_pack":true,
+         "stickers":"15"
+      },
+      {
+         "identifier":"frasesmex6",
+         "name":"Frases Mex (6)",
+         "animated_sticker_pack":true,
+         "stickers":"15"
+      },
+      {
+         "identifier":"frasesmex7",
+         "name":"Frases Mex (7)",
+         "animated_sticker_pack":true,
+         "stickers":"15"
+      },
+      {
+         "identifier":"frasesmex8",
+         "name":"Frases Mex (8)",
+         "animated_sticker_pack":true,
+         "stickers":"15"
+      },
+      {
+         "identifier":"frasesmex9",
+         "name":"Frases Mex (9)",
+         "animated_sticker_pack":true,
+         "stickers":"11"
+      },
+      {
+         "identifier":"yokochan1",
+         "name":"Yoko Chan (1)",
+         "animated_sticker_pack":true,
+         "stickers":"10"
+      },
+      {
+         "identifier":"yokochan2",
+         "name":"Yoko Chan (2)",
+         "animated_sticker_pack":true,
+         "stickers":"10"
+      },
+      {
+         "identifier":"theowlhouse",
+         "name":"The Owl House",
+         "animated_sticker_pack":true,
+         "stickers":"11"
+      },
+      {
+         "identifier":"houseofthedragon1",
+         "name":"House Dragon 1",
+         "animated_sticker_pack":true,
+         "stickers":"12"
+      },
+      {
+         "identifier":"heartflag1",
+         "name":"Heart flag 1",
+         "animated_sticker_pack":true,
+         "stickers":"10"
+      },
+      {
+         "identifier":"heartflag2",
+         "name":"Heart flag 2",
+         "animated_sticker_pack":true,
+         "stickers":"10"
+      },
+      {
+         "identifier":"strangerthings2",
+         "name":"Stranger Things (2)",
+         "animated_sticker_pack":true,
+         "stickers":"12"
+      },
+      {
+         "identifier":"strangerthings3",
+         "name":"Stranger Things (3)",
+         "animated_sticker_pack":true,
+         "stickers":"12"
+      },
+      {
+         "identifier":"what1",
+         "name":"What (1)",
+         "animated_sticker_pack":true,
+         "stickers":"12"
+      },
+      {
+         "identifier":"what2",
+         "name":"What (2)",
+         "animated_sticker_pack":true,
+         "stickers":"12"
+      },
+      {
+         "identifier":"vitaminparty",
+         "name":"Vitamin Party",
+         "animated_sticker_pack":true,
+         "stickers":"20"
+      },
+      {
+         "identifier":"deformitos1",
+         "name":"Deformitos 1",
+         "animated_sticker_pack":true,
+         "stickers":"12"
+      },
+      {
+         "identifier":"deformitos2",
+         "name":"Deformitos 2",
+         "animated_sticker_pack":true,
+         "stickers":"12"
+      },
+      {
+         "identifier":"deformitos3",
+         "name":"Deformitos 3",
+         "animated_sticker_pack":true,
+         "stickers":"12"
+      },
+      {
+         "identifier":"deformitos4",
+         "name":"Deformitos 4",
+         "animated_sticker_pack":true,
+         "stickers":"12"
+      },
+      {
+         "identifier":"flork3",
+         "name":"Flork 3",
+         "animated_sticker_pack":true,
+         "stickers":"12"
+      },
+      {
+         "identifier":"flork4",
+         "name":"Flork 4",
+         "animated_sticker_pack":true,
+         "stickers":"12"
+      },
+      {
+         "identifier":"goodnight3",
+         "name":"Good Night 3",
+         "animated_sticker_pack":true,
+         "stickers":"12"
+      },
+      {
+         "identifier":"goodnight4",
+         "name":"Good Night 4",
+         "animated_sticker_pack":true,
+         "stickers":"15"
+      },
+      {
+         "identifier":"sweetdreams1",
+         "name":"Sweet Dreams",
+         "animated_sticker_pack":true,
+         "stickers":"15"
+      },
+      {
+         "identifier":"nba3",
+         "name":"NBA (3)",
+         "animated_sticker_pack":true,
+         "stickers":"23"
+      },
+      {
+         "identifier":"soccerfans1",
+         "name":"Soccer Fans 1",
+         "animated_sticker_pack":true,
+         "stickers":"12"
+      },
+      {
+         "identifier":"goodjob1",
+         "name":"Good Job 1",
+         "animated_sticker_pack":true,
+         "stickers":"15"
+      },
+      {
+         "identifier":"goodjob2",
+         "name":"Good Job 2",
+         "animated_sticker_pack":true,
+         "stickers":"15"
+      },
+      {
+         "identifier":"goodjob3",
+         "name":"Good Job 3",
+         "animated_sticker_pack":true,
+         "stickers":"12"
+      },
+      {
+         "identifier":"goodjob4",
+         "name":"Good Job 4",
+         "animated_sticker_pack":true,
+         "stickers":"12"
+      },
+      {
+         "identifier":"soccer2",
+         "name":"Soccer 2",
+         "animated_sticker_pack":true,
+         "stickers":"14"
+      },
+      {
+         "identifier":"letters2",
+         "name":"Letters 2",
+         "animated_sticker_pack":true,
+         "stickers":"15"
+      },
+      {
+         "identifier":"letters1",
+         "name":"Letters",
+         "animated_sticker_pack":true,
+         "stickers":"20"
+      },
+      {
+         "identifier":"liveflowers",
+         "name":"Live Flowers",
+         "animated_sticker_pack":true,
+         "stickers":"20"
+      },
+      {
+         "identifier":"flork",
+         "name":"Flork 1",
+         "animated_sticker_pack":true,
+         "stickers":"17"
+      },
+      {
+         "identifier":"acdc1",
+         "name":"ACDC",
+         "animated_sticker_pack":true,
+         "stickers":"10"
+      },
+      {
+         "identifier":"metallica1",
+         "name":"Metallica",
+         "animated_sticker_pack":true,
+         "stickers":"15"
+      },
+      {
+         "identifier":"rollingstone1",
+         "name":"Rolling Stone",
+         "animated_sticker_pack":true,
+         "stickers":"11"
+      },
+      {
+         "identifier":"ukrainea1",
+         "name":"Peace Ukraine",
+         "animated_sticker_pack":true,
+         "stickers":"12"
+      },
+      {
+         "identifier":"superbowl1",
+         "name":"Super Bowl (1)",
+         "animated_sticker_pack":true,
+         "stickers":"12"
+      },
+      {
+         "identifier":"superbowl2",
+         "name":"Super Bowl (2)",
+         "animated_sticker_pack":true,
+         "stickers":"12"
+      },
+      {
+         "identifier":"bengals",
+         "name":"Bengals",
+         "animated_sticker_pack":true,
+         "stickers":"12"
+      },
+      {
+         "identifier":"rams",
+         "name":"Rams",
+         "animated_sticker_pack":true,
+         "stickers":"15"
+      },
+      {
+         "identifier":"bluegom",
+         "name":"Blue Gom",
+         "animated_sticker_pack":true,
+         "stickers":"9"
+      },
+      {
+         "identifier":"bt21a",
+         "name":"BT 21 1",
+         "animated_sticker_pack":true,
+         "stickers":"12"
+      },
+      {
+         "identifier":"bt21b",
+         "name":"BT 21 2",
+         "animated_sticker_pack":true,
+         "stickers":"12"
+      },
+      {
+         "identifier":"littleyellow",
+         "name":"Little Yellow",
+         "animated_sticker_pack":true,
+         "stickers":"8"
+      },
+      {
+         "identifier":"brawlstars3",
+         "name":"Brawl Stars 3",
+         "animated_sticker_pack":true,
+         "stickers":"16"
+      },
+      {
+         "identifier":"squidgame1",
+         "name":"Squid game 3",
+         "animated_sticker_pack":true,
+         "stickers":"17"
+      },
+      {
+         "identifier":"words2",
+         "name":"Words 2",
+         "animated_sticker_pack":true,
+         "stickers":"12"
+      },
+      {
+         "identifier":"eljuegodelcalamar1",
+         "name":"Squid Game (1)",
+         "animated_sticker_pack":true,
+         "stickers":"13"
+      },
+      {
+         "identifier":"eljuegodelcalamar2",
+         "name":"Squid Game (2)",
+         "animated_sticker_pack":true,
+         "stickers":"10"
+      },
+      {
+         "identifier":"phrases1",
+         "name":"Phrases (1)",
+         "animated_sticker_pack":true,
+         "stickers":"14"
+      },
+      {
+         "identifier":"greetings5",
+         "name":"Greetings (5)",
+         "animated_sticker_pack":true,
+         "stickers":"6"
+      },
+      {
+         "identifier":"twintowersa1",
+         "name":"Twin Towers",
+         "animated_sticker_pack":true,
+         "stickers":"12"
+      },
+      {
+         "identifier":"mexico1",
+         "name":"Mexico (1)",
+         "animated_sticker_pack":true,
+         "stickers":"14"
+      },
+      {
+         "identifier":"kids1",
+         "name":"Kids",
+         "animated_sticker_pack":true,
+         "stickers":"10"
+      },
+      {
+         "identifier":"buenosdias1",
+         "name":"Buenos Dias (1)",
+         "animated_sticker_pack":true,
+         "stickers":"7"
+      },
+      {
+         "identifier":"nbabrooklyn",
+         "name":"NBA Brooklyn",
+         "animated_sticker_pack":true,
+         "stickers":"9"
+      },
+      {
+         "identifier":"goodnight1",
+         "name":"Good Night (1)",
+         "animated_sticker_pack":true,
+         "stickers":"11"
+      },
+      {
+         "identifier":"goodnight2",
+         "name":"Good Night (2)",
+         "animated_sticker_pack":true,
+         "stickers":"11"
+      },
+      {
+         "identifier":"goodday1",
+         "name":"Good Day (1)",
+         "animated_sticker_pack":true,
+         "stickers":"11"
+      },
+      {
+         "identifier":"wordsanimated1",
+         "name":"Words Animated (1)",
+         "animated_sticker_pack":false,
+         "stickers":"13"
+      },
+      {
+         "identifier":"wordsanimated2",
+         "name":"Words Animated (2)",
+         "animated_sticker_pack":false,
+         "stickers":"12"
+      },
+      {
+         "identifier":"neonmessage1",
+         "name":"Neon Message ",
+         "animated_sticker_pack":true,
+         "stickers":"23"
+      },
+      {
+         "identifier":"mrfly",
+         "name":"Mr Fly",
+         "animated_sticker_pack":true,
+         "stickers":"15"
+      },
+      {
+         "identifier":"mrass1",
+         "name":"Mr Ass (1)",
+         "animated_sticker_pack":true,
+         "stickers":"12"
+      },
+      {
+         "identifier":"mrass2",
+         "name":"Mr Ass (2)",
+         "animated_sticker_pack":true,
+         "stickers":"13"
+      },
+      {
+         "identifier":"magicmandrake",
+         "name":"Magic Mandrake",
+         "animated_sticker_pack":true,
+         "stickers":"14"
+      },
+      {
+         "identifier":"vaccinated1",
+         "name":"Vaccinated 1",
+         "animated_sticker_pack":true,
+         "stickers":"12"
+      },
+      {
+         "identifier":"vaccinated2",
+         "name":"Vaccinated 2",
+         "animated_sticker_pack":true,
+         "stickers":"12"
+      },
+      {
+         "identifier":"vaccinated3",
+         "name":"Vaccinated 3",
+         "animated_sticker_pack":true,
+         "stickers":"12"
+      },
+      {
+         "identifier":"vaccinated4",
+         "name":"Vaccinated 4",
+         "animated_sticker_pack":true,
+         "stickers":"12"
+      },
+      {
+         "identifier":"vaccinated5",
+         "name":"Vaccinated 5",
+         "animated_sticker_pack":true,
+         "stickers":"12"
+      },
+      {
+         "identifier":"vaccinated6",
+         "name":"Vaccinated 6",
+         "animated_sticker_pack":true,
+         "stickers":"12"
+      },
+      {
+         "identifier":"playmobil5",
+         "name":"Playmobil 5",
+         "animated_sticker_pack":true,
+         "stickers":"12"
+      },
+      {
+         "identifier":"usag1",
+         "name":"Usag 1",
+         "animated_sticker_pack":true,
+         "stickers":"12"
+      },
+      {
+         "identifier":"usag2",
+         "name":"Usag 2",
+         "animated_sticker_pack":true,
+         "stickers":"12"
+      },
+      {
+         "identifier":"angels",
+         "name":"Angels",
+         "animated_sticker_pack":true,
+         "stickers":"16"
+      },
+      {
+         "identifier":"playmobil3",
+         "name":"Playmobil 3",
+         "animated_sticker_pack":true,
+         "stickers":"12"
+      },
+      {
+         "identifier":"playmobil4",
+         "name":"Playmobil 4",
+         "animated_sticker_pack":true,
+         "stickers":"12"
+      },
+      {
+         "identifier":"playmobil1",
+         "name":"Playmobil 1",
+         "animated_sticker_pack":true,
+         "stickers":"12"
+      },
+      {
+         "identifier":"playmobil2",
+         "name":"Playmobil 2",
+         "animated_sticker_pack":true,
+         "stickers":"12"
+      },
+      {
+         "identifier":"taco",
+         "name":"Taco",
+         "animated_sticker_pack":true,
+         "stickers":"15"
+      },
+      {
+         "identifier":"dias",
+         "name":"Dias",
+         "animated_sticker_pack":true,
+         "stickers":"7"
+      },
+      {
+         "identifier":"socktoys",
+         "name":"Sock Toys",
+         "animated_sticker_pack":true,
+         "stickers":"20"
+      },
+      {
+         "identifier":"ladycat",
+         "name":"Lady Cat",
+         "animated_sticker_pack":true,
+         "stickers":"16"
+      },
+      {
+         "identifier":"positivemessages1",
+         "name":"Positive Messages (1)",
+         "animated_sticker_pack":true,
+         "stickers":"11"
+      },
+      {
+         "identifier":"happybirthday1",
+         "name":"Happy Birthday (1)",
+         "animated_sticker_pack":true,
+         "stickers":"12"
+      },
+      {
+         "identifier":"happybirthday2",
+         "name":"Happy Birthday (2)",
+         "animated_sticker_pack":true,
+         "stickers":"12"
+      },
+      {
+         "identifier":"wordup1",
+         "name":"Word Up (1)",
+         "animated_sticker_pack":true,
+         "stickers":"12"
+      },
+      {
+         "identifier":"wordup2",
+         "name":"Word Up (2)",
+         "animated_sticker_pack":true,
+         "stickers":"11"
+      },
+      {
+         "identifier":"cutiebeautybaby",
+         "name":"Cutie Beauty Baby",
+         "animated_sticker_pack":true,
+         "stickers":"15"
+      },
+      {
+         "identifier":"furry",
+         "name":"Furry",
+         "animated_sticker_pack":true,
+         "stickers":"20"
+      },
+      {
+         "identifier":"pride",
+         "name":"Pride",
+         "animated_sticker_pack":true,
+         "stickers":"13"
+      },
+      {
+         "identifier":"greetings3",
+         "name":"Greetings (3)",
+         "animated_sticker_pack":true,
+         "stickers":"14"
+      },
+      {
+         "identifier":"greetings4",
+         "name":"Greetings (4)",
+         "animated_sticker_pack":true,
+         "stickers":"14"
+      },
+      {
+         "identifier":"friends1",
+         "name":"Friends (1)",
+         "animated_sticker_pack":true,
+         "stickers":"7"
+      },
+      {
+         "identifier":"friendschandler",
+         "name":"Friends Chandler",
+         "animated_sticker_pack":true,
+         "stickers":"14"
+      },
+      {
+         "identifier":"friendsjoey",
+         "name":"Friends Joey",
+         "animated_sticker_pack":true,
+         "stickers":"14"
+      },
+      {
+         "identifier":"friendsmonica",
+         "name":"Friends Monica",
+         "animated_sticker_pack":true,
+         "stickers":"14"
+      },
+      {
+         "identifier":"friendsphoebe",
+         "name":"Friends Phoebe",
+         "animated_sticker_pack":true,
+         "stickers":"14"
+      },
+      {
+         "identifier":"friendsrachel",
+         "name":"Friends Rachel",
+         "animated_sticker_pack":true,
+         "stickers":"14"
+      },
+      {
+         "identifier":"friendsross",
+         "name":"Friends Ross",
+         "animated_sticker_pack":true,
+         "stickers":"14"
+      },
+      {
+         "identifier":"mandalorian1",
+         "name":"The Mandalorian (1)",
+         "animated_sticker_pack":true,
+         "stickers":"10"
+      },
+      {
+         "identifier":"mandalorian2",
+         "name":"The Mandalorian (2)",
+         "animated_sticker_pack":true,
+         "stickers":"10"
+      },
+      {
+         "identifier":"wandavision1",
+         "name":"Wanda Vision (1)",
+         "animated_sticker_pack":true,
+         "stickers":"11"
+      },
+      {
+         "identifier":"wandavision2",
+         "name":"Wanda Vision (2)",
+         "animated_sticker_pack":true,
+         "stickers":"10"
+      },
+      {
+         "identifier":"text1",
+         "name":"Text1",
+         "animated_sticker_pack":true,
+         "stickers":"10"
+      },
+      {
+         "identifier":"nba1",
+         "name":"Nba Teams (1)",
+         "animated_sticker_pack":true,
+         "stickers":"15"
+      },
+      {
+         "identifier":"nba2",
+         "name":"Nba Teams (2)",
+         "animated_sticker_pack":true,
+         "stickers":"15"
+      },
+      {
+         "identifier":"greetings2",
+         "name":"Greetings (2)",
+         "animated_sticker_pack":true,
+         "stickers":"11"
+      },
+      {
+         "identifier":"greetings1",
+         "name":"Greetings (1)",
+         "animated_sticker_pack":true,
+         "stickers":"15"
+      },
+      {
+         "identifier":"fifaa1",
+         "name":"Fifa Animated 1",
+         "animated_sticker_pack":true,
+         "stickers":"11"
+      },
+      {
+         "identifier":"fifaa2",
+         "name":"Fifa Animated 2",
+         "animated_sticker_pack":true,
+         "stickers":"11"
+      },
+      {
+         "identifier":"fifaa3",
+         "name":"Fifa Animated 3",
+         "animated_sticker_pack":true,
+         "stickers":"11"
+      },
+      {
+         "identifier":"marshmello1",
+         "name":"Marshmello 1",
+         "animated_sticker_pack":true,
+         "stickers":"11"
+      },
+      {
+         "identifier":"marshmello2",
+         "name":"Marshmello 2",
+         "animated_sticker_pack":true,
+         "stickers":"11"
+      },
+      {
+         "identifier":"drinks1",
+         "name":"Drinks 1",
+         "animated_sticker_pack":true,
+         "stickers":"13"
+      },
+      {
+         "identifier":"drinks2",
+         "name":"Drinks 2",
+         "animated_sticker_pack":true,
+         "stickers":"12"
+      },
+      {
+         "identifier":"theoffice3",
+         "name":"The Office 3",
+         "animated_sticker_pack":true,
+         "stickers":"12"
+      },
+      {
+         "identifier":"cockroach",
+         "name":"Cockroach",
+         "animated_sticker_pack":true,
+         "stickers":"20"
+      },
+      {
+         "identifier":"lemon1",
+         "name":"Lemon 1",
+         "animated_sticker_pack":true,
+         "stickers":"12"
+      },
+      {
+         "identifier":"lemon2",
+         "name":"Lemon 2",
+         "animated_sticker_pack":true,
+         "stickers":"12"
+      },
+      {
+         "identifier":"judyalvarez",
+         "name":"Judy Alvarez",
+         "animated_sticker_pack":true,
+         "stickers":"20"
+      },
+      {
+         "identifier":"urban1",
+         "name":"Urban 1",
+         "animated_sticker_pack":true,
+         "stickers":"15"
+      },
+      {
+         "identifier":"urban2",
+         "name":"Urban 2",
+         "animated_sticker_pack":true,
+         "stickers":"15"
+      },
+      {
+         "identifier":"words1",
+         "name":"words 1",
+         "animated_sticker_pack":true,
+         "stickers":"20"
+      },
+      {
+         "identifier":"lucy",
+         "name":"Lucy",
+         "animated_sticker_pack":true,
+         "stickers":"15"
+      },
+      {
+         "identifier":"pinkfly",
+         "name":"Pink Fly",
+         "animated_sticker_pack":true,
+         "stickers":"25"
+      },
+      {
+         "identifier":"wormies",
+         "name":"Wormies",
+         "animated_sticker_pack":true,
+         "stickers":"25"
+      },
+      {
+         "identifier":"egg",
+         "name":"Egg",
+         "animated_sticker_pack":true,
+         "stickers":"20"
+      },
+      {
+         "identifier":"messibarca1",
+         "name":"Messi Barcelona",
+         "animated_sticker_pack":true,
+         "stickers":"12"
+      },
+      {
+         "identifier":"expression1",
+         "name":"Expression 1",
+         "animated_sticker_pack":true,
+         "stickers":"15"
+      },
+      {
+         "identifier":"pack1",
+         "name":"Pack 1",
+         "animated_sticker_pack":true,
+         "stickers":"15"
+      },
+      {
+         "identifier":"pack2",
+         "name":"Pack 2",
+         "animated_sticker_pack":true,
+         "stickers":"15"
+      },
+      {
+         "identifier":"pack3",
+         "name":"Pack 3",
+         "animated_sticker_pack":true,
+         "stickers":"15"
+      },
+      {
+         "identifier":"pack4",
+         "name":"Pack 4",
+         "animated_sticker_pack":true,
+         "stickers":"15"
+      },
+      {
+         "identifier":"pack5",
+         "name":"Pack 5",
+         "animated_sticker_pack":true,
+         "stickers":"15"
+      },
+      {
+         "identifier":"pack6",
+         "name":"Pack 6",
+         "animated_sticker_pack":true,
+         "stickers":"15"
+      },
+      {
+         "identifier":"pack7",
+         "name":"Pack 7",
+         "animated_sticker_pack":true,
+         "stickers":"15"
+      },
+      {
+         "identifier":"pack8",
+         "name":"Pack 8",
+         "animated_sticker_pack":true,
+         "stickers":"15"
+      },
+      {
+         "identifier":"pack9",
+         "name":"Pack 9",
+         "animated_sticker_pack":true,
+         "stickers":"15"
+      },
+      {
+         "identifier":"pack10",
+         "name":"Pack 10",
+         "animated_sticker_pack":true,
+         "stickers":"15"
+      },
+      {
+         "identifier":"pack11",
+         "name":"Pack 11",
+         "animated_sticker_pack":true,
+         "stickers":"23"
+      },
+      {
+         "identifier":"pack12",
+         "name":"Pack 12",
+         "animated_sticker_pack":true,
+         "stickers":"25"
+      },
+      {
+         "identifier":"pack13",
+         "name":"Pack 13",
+         "animated_sticker_pack":true,
+         "stickers":"30"
+      },
+      {
+         "identifier":"flags3",
+         "name":"Flags 3",
+         "animated_sticker_pack":true,
+         "stickers":"14"
+      },
+      {
+         "identifier":"flags4",
+         "name":"Flags 4",
+         "animated_sticker_pack":true,
+         "stickers":"13"
+      },
+      {
+         "identifier":"flags1",
+         "name":"Flags 1",
+         "animated_sticker_pack":true,
+         "stickers":"13"
+      },
+      {
+         "identifier":"flags2",
+         "name":"Flags 2",
+         "animated_sticker_pack":true,
+         "stickers":"14"
+      },
+      {
+         "identifier":"soccer1",
+         "name":"Soccer 1",
+         "animated_sticker_pack":true,
+         "stickers":"12"
+      },
+      {
+         "identifier":"brazil1",
+         "name":"Brazil",
+         "animated_sticker_pack":true,
+         "stickers":"11"
+      },
+      {
+         "identifier":"togheterwhileapart",
+         "name":"Togheter While Apart",
+         "animated_sticker_pack":true,
+         "stickers":"21"
+      },
+      {
+         "identifier":"goal1",
+         "name":"Goal 1",
+         "animated_sticker_pack":true,
+         "stickers":"10"
+      },
+      {
+         "identifier":"others4",
+         "name":"Others 4",
+         "animated_sticker_pack":true,
+         "stickers":"11"
+      },
+      {
+         "identifier":"others3",
+         "name":"Others 3",
+         "animated_sticker_pack":true,
+         "stickers":"9"
+      },
+      {
+         "identifier":"others2",
+         "name":"Others 2",
+         "animated_sticker_pack":true,
+         "stickers":"10"
+      },
+      {
+         "identifier":"words",
+         "name":"Words",
+         "animated_sticker_pack":true,
+         "stickers":"19"
+      },
+      {
+         "identifier":"square",
+         "name":"Square",
+         "animated_sticker_pack":true,
+         "stickers":"11"
+      },
+      {
+         "identifier":"ok",
+         "name":"Pack Ok",
+         "animated_sticker_pack":true,
+         "stickers":"17"
+      }
+   ]
 }

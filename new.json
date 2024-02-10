@@ -3,6 +3,18 @@
    "ios_app_store_link":"",
    "sticker_packs":[
       {
+         "identifier":"sneakerchuck1",
+         "name":"Happy Sneaker Chuck (1)",
+         "animated_sticker_pack":true,
+         "stickers":"10"
+      },
+      {
+         "identifier":"sneakerchuck2",
+         "name":"Happy Sneaker Chuck (2)",
+         "animated_sticker_pack":true,
+         "stickers":"10"
+      },
+      {
          "identifier":"newyear1",
          "name":"Happy New Year (1)",
          "animated_sticker_pack":true,
