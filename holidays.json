@@ -3,6 +3,18 @@
    "ios_app_store_link":"",
    "sticker_packs":[
       {
+         "identifier":"happyvalentine1",
+         "name":"Happy Valentine (1)",
+         "animated_sticker_pack":true,
+         "stickers":"12"
+      },
+      {
+         "identifier":"happyvalentine2",
+         "name":"Happy Valentine (2)",
+         "animated_sticker_pack":true,
+         "stickers":"12"
+      },
+      {
          "identifier":"newyear1",
          "name":"Happy New Year (1)",
          "animated_sticker_pack":true,
@@ -313,18 +325,6 @@
          "name":"Carnaval (1)",
          "animated_sticker_pack":true,
          "stickers":"17"
-      },
-      {
-         "identifier":"happyvalentine1",
-         "name":"Happy Valentine (1)",
-         "animated_sticker_pack":true,
-         "stickers":"12"
-      },
-      {
-         "identifier":"happyvalentine2",
-         "name":"Happy Valentine (2)",
-         "animated_sticker_pack":true,
-         "stickers":"12"
       },
       {
          "identifier":"newyear2023a",

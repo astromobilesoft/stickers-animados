@@ -3,6 +3,30 @@
    "ios_app_store_link":"",
    "sticker_packs":[
       {
+         "identifier":"happyvalentine1",
+         "name":"Happy Valentine (1)",
+         "animated_sticker_pack":true,
+         "stickers":"12"
+      },
+      {
+         "identifier":"happyvalentine2",
+         "name":"Happy Valentine (2)",
+         "animated_sticker_pack":true,
+         "stickers":"12"
+      },
+      {
+         "identifier":"lovehandle1",
+         "name":"Love Handle 1",
+         "animated_sticker_pack":true,
+         "stickers":"12"
+      },
+      {
+         "identifier":"lovehandle2",
+         "name":"Love Handle 2",
+         "animated_sticker_pack":true,
+         "stickers":"13"
+      },
+      {
          "identifier":"sneakerchuck1",
          "name":"Happy Sneaker Chuck (1)",
          "animated_sticker_pack":true,
@@ -859,30 +883,6 @@
          "name":"Snow Leopard (2)",
          "animated_sticker_pack":true,
          "stickers":"12"
-      },
-      {
-         "identifier":"happyvalentine1",
-         "name":"Happy Valentine (1)",
-         "animated_sticker_pack":true,
-         "stickers":"12"
-      },
-      {
-         "identifier":"happyvalentine2",
-         "name":"Happy Valentine (2)",
-         "animated_sticker_pack":true,
-         "stickers":"12"
-      },
-      {
-         "identifier":"lovehandle1",
-         "name":"Love Handle 1",
-         "animated_sticker_pack":true,
-         "stickers":"12"
-      },
-      {
-         "identifier":"lovehandle2",
-         "name":"Love Handle 2",
-         "animated_sticker_pack":true,
-         "stickers":"13"
       },
       {
          "identifier":"pepetgemoji1",
