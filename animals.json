@@ -3,6 +3,18 @@
   "ios_app_store_link": "",
   "sticker_packs": [
     {
+      "identifier":"tibetanfox1",
+      "name":"Tibetan Fox (1)",
+      "animated_sticker_pack":true,
+      "stickers":"17"
+    },
+    {
+      "identifier":"tibetanfox2",
+      "name":"Tibetan Fox (2)",
+      "animated_sticker_pack":true,
+      "stickers":"17"
+    },
+    {
       "identifier": "borzoi1",
       "name": "Borzoi (1)",
       "animated_sticker_pack": true,
