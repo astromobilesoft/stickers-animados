@@ -3,6 +3,18 @@
    "ios_app_store_link":"",
    "sticker_packs":[
       {
+         "identifier":"nba5",
+         "name":"NBA (5)",
+         "animated_sticker_pack":true,
+         "stickers":"13"
+      },
+      {
+         "identifier":"nba4",
+         "name":"NBA (4)",
+         "animated_sticker_pack":true,
+         "stickers":"13"
+      },
+      {
          "identifier":"roblox1",
          "name":"Roblox",
          "animated_sticker_pack":true,
