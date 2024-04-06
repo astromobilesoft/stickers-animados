@@ -3,6 +3,24 @@
   "ios_app_store_link": "",
   "sticker_packs": [
     {
+      "identifier":"bunnydaily1",
+      "name":"Bunny Daily (1)",
+      "animated_sticker_pack":true,
+      "stickers":"14"
+    },
+    {
+      "identifier":"bunnydaily2",
+      "name":"Bunny Daily (2)",
+      "animated_sticker_pack":true,
+      "stickers":"14"
+    },
+    {
+      "identifier":"bunnydaily3",
+      "name":"Bunny Daily (3)",
+      "animated_sticker_pack":true,
+      "stickers":"14"
+    },
+    {
       "identifier":"tibetanfox1",
       "name":"Tibetan Fox (1)",
       "animated_sticker_pack":true,
