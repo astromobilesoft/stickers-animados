@@ -3,6 +3,18 @@
    "ios_app_store_link":"",
    "sticker_packs":[
       {
+         "identifier":"crayonsemoji1",
+         "name":"Crayons Emoji (1)",
+         "animated_sticker_pack":true,
+         "stickers":"25"
+      },
+      {
+         "identifier":"crayonsemoji2",
+         "name":"Crayons Emoji (2)",
+         "animated_sticker_pack":true,
+         "stickers":"25"
+      },
+      {
          "identifier":"bunnydaily1",
          "name":"Bunny Daily (1)",
          "animated_sticker_pack":true,
