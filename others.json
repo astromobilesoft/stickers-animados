@@ -3,6 +3,18 @@
    "ios_app_store_link":"",
    "sticker_packs":[
       {
+         "identifier":"joker2",
+         "name":"Joker (2)",
+         "animated_sticker_pack":true,
+         "stickers":"15"
+      },
+      {
+         "identifier":"joker3",
+         "name":"Joker (3)",
+         "animated_sticker_pack":true,
+         "stickers":"15"
+      },
+      {
          "identifier":"nba5",
          "name":"NBA (5)",
          "animated_sticker_pack":true,
