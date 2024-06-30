@@ -3,6 +3,12 @@
    "ios_app_store_link":"",
    "sticker_packs":[
       {
+         "identifier":"oggy1",
+         "name":"Oggy",
+         "animated_sticker_pack":true,
+         "stickers":"25"
+      },
+      {
          "identifier":"joker2",
          "name":"Joker (2)",
          "animated_sticker_pack":true,
