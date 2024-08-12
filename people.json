@@ -3,6 +3,12 @@
   "ios_app_store_link": "",
   "sticker_packs": [
     {
+      "identifier":"motionw1",
+      "name":"Motion W",
+      "animated_sticker_pack":true,
+      "stickers":"15"
+    },
+    {
       "identifier": "steveandmaggie1",
       "name": "Steve and Maggie 1",
       "animated_sticker_pack": true,
