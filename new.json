@@ -3,6 +3,18 @@
    "ios_app_store_link":"",
    "sticker_packs":[
       {
+         "identifier":"partysquaddsicord1",
+         "name":"Party Squad Discord (1)",
+         "animated_sticker_pack":true,
+         "stickers":"15"
+      },
+      {
+         "identifier":"partysquaddsicord2",
+         "name":"Party Squad Discord (2)",
+         "animated_sticker_pack":true,
+         "stickers":"15"
+      },
+      {
          "identifier":"merrychristmas1",
          "name":"Merry Christmas (1)",
          "animated_sticker_pack":true,
