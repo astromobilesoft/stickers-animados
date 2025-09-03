@@ -3,6 +3,12 @@
    "ios_app_store_link":"",
    "sticker_packs":[
       {
+         "identifier":"heartlove1",
+         "name":"Heart Love 1",
+         "animated_sticker_pack":true,
+         "stickers":"10"
+      },
+      {
          "identifier":"acdc1",
          "name":"ACDC 1",
          "animated_sticker_pack":true,
