@@ -3,6 +3,12 @@
    "ios_app_store_link":"",
    "sticker_packs":[
       {
+         "identifier":"greetingmessages1",
+         "name":"Greeting Messages 1",
+         "animated_sticker_pack":true,
+         "stickers":"14"
+      },      
+      {
          "identifier":"lucasfriends1",
          "name":"Lucas Friends 1",
          "animated_sticker_pack":true,
