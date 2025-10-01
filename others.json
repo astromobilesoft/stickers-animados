@@ -3,6 +3,18 @@
    "ios_app_store_link":"",
    "sticker_packs":[
       {
+         "identifier":"labubu1",
+         "name":"Labubu 1",
+         "animated_sticker_pack":true,
+         "stickers":"15"
+      },
+      {
+         "identifier":"labubu2",
+         "name":"Labubu 2",
+         "animated_sticker_pack":true,
+         "stickers":"12"
+      }, 
+      {
          "identifier":"greetingmessages1",
          "name":"Greeting Messages 1",
          "animated_sticker_pack":true,
