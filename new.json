@@ -3,6 +3,42 @@
    "ios_app_store_link":"",
    "sticker_packs":[
       {
+         "identifier":"happyeaster5",
+         "name":"Happy Easter (5)",
+         "animated_sticker_pack":true,
+         "stickers":"12"
+      },
+      {
+         "identifier":"happyeaster4",
+         "name":"Happy Easter (4)",
+         "animated_sticker_pack":true,
+         "stickers":"11"
+      },
+      {
+         "identifier":"happyeaster3",
+         "name":"Happy Easter 4",
+         "animated_sticker_pack":true,
+         "stickers":"12"
+      },
+      {
+         "identifier":"happyeaster2",
+         "name":"Happy Easter 3",
+         "animated_sticker_pack":true,
+         "stickers":"15"
+      },
+      {
+         "identifier":"happyeaster1",
+         "name":"Happy Easter 2",
+         "animated_sticker_pack":true,
+         "stickers":"15"
+      },
+      {
+         "identifier":"happyeaster",
+         "name":"Happy Easter 1",
+         "animated_sticker_pack":true,
+         "stickers":"16"
+      },
+      {
          "identifier":"merrychristmas1",
          "name":"Merry Christmas (1)",
          "animated_sticker_pack":true,
@@ -895,30 +931,6 @@
          "name":"Topulya 3",
          "animated_sticker_pack":true,
          "stickers":"15"
-      },
-      {
-         "identifier":"happyeaster3",
-         "name":"Happy Easter 4",
-         "animated_sticker_pack":true,
-         "stickers":"12"
-      },
-      {
-         "identifier":"happyeaster2",
-         "name":"Happy Easter 3",
-         "animated_sticker_pack":true,
-         "stickers":"15"
-      },
-      {
-         "identifier":"happyeaster1",
-         "name":"Happy Easter 2",
-         "animated_sticker_pack":true,
-         "stickers":"15"
-      },
-      {
-         "identifier":"happyeaster",
-         "name":"Happy Easter 1",
-         "animated_sticker_pack":true,
-         "stickers":"16"
       },
       {
          "identifier":"meowemoji1",
